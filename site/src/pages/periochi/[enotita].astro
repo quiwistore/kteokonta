@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import stathmoi from '../../data/stathmoi.json';
+
+export function getStaticPaths() {
+  const mapa = {};
+  for (const s of stathmoi) {
+    (mapa[s.enotitaSlug] ||= { slug: s.enotitaSlug, enotita: s.enotita, list: [] }).list.push(s);
+  }
+  return Object.values(mapa).map(e => ({ params: { enotita: e.slug }, props: { e } }));
+}
+const { e } = Astro.props;
+const region = e.list[0].region, regionSlug = e.list[0].regionSlug;
+const n = e.list.length;
+const conMoto = e.list.filter(s => s.cats.includes('Δίκυκλα')).length;
+const title = `ΚΤΕΟ ${e.enotita}: ${n === 1 ? '1 σταθμός' : `${n} σταθμοί`} με τηλέφωνο και διεύθυνση`;
+const desc = `${n === 1 ? 'Ο σταθμός τεχνικού ελέγχου' : `Όλοι οι ${n} σταθμοί τεχνικού ελέγχου`} στην περιοχή ${e.enotita} (${region}) — ΚΤΕΟ και ΙΚΤΕΟ με τηλέφωνο και διεύθυνση από τον επίσημο κατάλογο του Υπουργείου Μεταφορών.`;
+const schemaCol = { "@context":"https://schema.org","@type":"CollectionPage","name":title,
+  "mainEntity": { "@type":"ItemList","numberOfItems":n,"itemListElement":e.list.map((s,i)=>({"@type":"ListItem","position":i+1,"name":s.titlos,"url":`https://kteokonta.com/kteo/${s.slug}/`})) } };
+const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Αρχική","item":"https://kteokonta.com/"},{"@type":"ListItem","position":2,"name":region,"item":`https://kteokonta.com/periferia/${regionSlug}/`},{"@type":"ListItem","position":3,"name":`ΚΤΕΟ ${e.enotita}`}]};
+const faq = [
+  { q: `Πόσο κοστίζει το ΚΤΕΟ στην περιοχή ${e.enotita};`, a: `Οι τιμές διαμορφώνονται ελεύθερα από κάθε σταθμό. Για επιβατικό ΙΧ υπολογίστε συνήθως 40 έως 70 ευρώ, με προσφορές από περίπου 40 ευρώ που συχνά περιλαμβάνουν και την κάρτα καυσαερίων. Αξίζει να τηλεφωνήσετε σε 2-3 σταθμούς και να συγκρίνετε.` },
+  { q: `Πού περνάει ΚΤΕΟ μια μηχανή στην περιοχή;`, a: conMoto > 0 ? `Από τους ${n} σταθμούς της περιοχής, ${conMoto === 1 ? '1 ελέγχει' : `οι ${conMoto} ελέγχουν`} δίκυκλα — δείτε το σήμα «Δίκυκλα» σε κάθε καρτέλα σταθμού.` : `Οι σταθμοί της περιοχής δεν δηλώνουν έλεγχο δικύκλων στον επίσημο κατάλογο — δείτε γειτονικές περιοχές ή επικοινωνήστε τηλεφωνικά.` },
+  { q: `Χρειάζεται ραντεβού;`, a: `Οι περισσότεροι σταθμοί δέχονται και χωρίς ραντεβού, αλλά με τηλεφωνικό ραντεβού ο έλεγχος συνήθως ολοκληρώνεται μέσα σε 20-30 λεπτά. Αποφύγετε τις τελευταίες μέρες του μήνα.` }
+];
+const schemaFaq = { "@context":"https://schema.org","@type":"FAQPage","mainEntity": faq.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}})) };
+---
+<Base title={title} desc={desc} schema={schemaCol}>
+<main class="wrap">
+  <div class="migas"><a href="/">Αρχική</a> › <a href={`/periferia/${regionSlug}/`}>{region}</a> › {e.enotita}</div>
+  <p class="eyebrow">{n === 1 ? '1 αδειοδοτημένος σταθμός' : `${n} αδειοδοτημένοι σταθμοί`} · {region}</p>
+  <h1 style="color:var(--verde);font-size:1.7rem">ΚΤΕΟ στην περιοχή {e.enotita}</h1>
+  <p class="lede">{n === 1 ? 'Ο αδειοδοτημένος σταθμός τεχνικού ελέγχου' : 'Όλοι οι αδειοδοτημένοι σταθμοί τεχνικού ελέγχου'} της περιοχής, σύμφωνα με τον επίσημο κατάλογο του Υπουργείου Μεταφορών — με τηλέφωνο και διεύθυνση.</p>
+  <div class="grid">
+    {e.list.map(s => <a class="tarjeta" href={`/kteo/${s.slug}/`} style="display:block"><h3><i class="fa-solid fa-car-on"></i>{s.titlos.slice(0, 40)}</h3><p class="meta">{s.dir.slice(0, 48)}</p><p class="meta" style="color:var(--verde2);font-weight:600">{s.tipo === 'ikteo' ? 'ΙΚΤΕΟ' : 'Δημόσιο'} · {s.cats.join(' · ')}</p></a>)}
+  </div>
+  <h2>Χρήσιμα πριν τον έλεγχο</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/kteo-times/" style="display:block"><h3><i class="fa-solid fa-euro-sign"></i>Τιμές ΚΤΕΟ</h3><p class="meta">Ενδεικτικές τιμές 2026 και πώς να πληρώσετε λιγότερα.</p></a>
+    <a class="tarjeta" href="/pote-pernao-kteo/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Πότε περνάω ΚΤΕΟ</h3><p class="meta">Πρώτος έλεγχος στα 4 χρόνια, μετά κάθε 2.</p></a>
+    <a class="tarjeta" href="/elegxos-kteo/" style="display:block"><h3><i class="fa-solid fa-magnifying-glass"></i>Έλεγχος online</h3><p class="meta">Δείτε πότε λήγει το ΚΤΕΟ σας δωρεάν στο gov.gr.</p></a>
+    <a class="tarjeta" href="/prostimo-kteo/" style="display:block"><h3><i class="fa-solid fa-triangle-exclamation"></i>Εκπρόθεσμο ΚΤΕΟ</h3><p class="meta">Παράβολα 18-67€ και πρόστιμο 400€ — τι ισχύει.</p></a>
+  </div>
+  <h2>Συχνές ερωτήσεις</h2>
+  {faq.map(f => <details class="faq"><summary>{f.q}</summary><div class="faq-body"><p>{f.a}</p></div></details>)}
+  <div class="fuente">Πηγή καταλόγου: επίσημα στοιχεία Υπουργείου Υποδομών και Μεταφορών.</div>
+</main>
+<script type="application/ld+json" set:html={JSON.stringify(schemaFaq)} />
+<script type="application/ld+json" set:html={JSON.stringify(migas)} />
+</Base>

@@ -1,0 +1,47 @@
+---
+import Base from '../layouts/Base.astro';
+import stathmoi from '../data/stathmoi.json';
+import { odigos } from '../data/odigos.js';
+const regiones = {};
+for (const s of stathmoi) (regiones[s.regionSlug] ||= { slug: s.regionSlug, region: s.region, n: 0 }).n++;
+const topEno = {};
+for (const s of stathmoi) (topEno[s.enotitaSlug] ||= { slug: s.enotitaSlug, enotita: s.enotita, n: 0 }).n++;
+const top = Object.values(topEno).sort((a, b) => b.n - a.n).slice(0, 12);
+const title = `ΚΤΕΟ Κοντά: όλοι οι σταθμοί της Ελλάδας (${stathmoi.length}) + οδηγός 2026`;
+const desc = `Βρείτε ΚΤΕΟ κοντά σας: και οι ${stathmoi.length} σταθμοί τεχνικού ελέγχου της Ελλάδας με τηλέφωνο και διεύθυνση από τα επίσημα στοιχεία. Πότε περνάτε, πρόστιμα, τιμές και κάρτα καυσαερίων.`;
+---
+<Base title={title} desc={desc}>
+<section class="hero">
+  <div class="wrap">
+    <h1>Όλα τα ΚΤΕΟ της Ελλάδας — με τηλέφωνο, διεύθυνση και ξεκάθαρους κανόνες</h1>
+    <p>{stathmoi.length} αδειοδοτημένοι σταθμοί τεχνικού ελέγχου από τον επίσημο κατάλογο του Υπουργείου Μεταφορών. Μαζί με πρακτικό οδηγό: πότε περνάτε, τι πληρώνετε και τι άλλαξε το 2026 στην κάρτα καυσαερίων.</p>
+    <div class="botonera">
+      <a class="btn" href="/stathmoi/"><i class="fa-solid fa-magnifying-glass"></i> Βρείτε σταθμό</a>
+      <a class="btn sec" href="/pote-pernao-kteo/"><i class="fa-solid fa-calendar-check"></i> Πότε περνάω;</a>
+      <a class="btn sec" href="/prostimo-kteo/"><i class="fa-solid fa-triangle-exclamation"></i> Πρόστιμα</a>
+    </div>
+  </div>
+</section>
+<main class="wrap">
+  <h2>Τα βασικά για το ΚΤΕΟ το 2026</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/pote-pernao-kteo/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Πότε περνάω ΚΤΕΟ</h3><p class="meta">Πρώτος έλεγχος στα 4 χρόνια, μετά κάθε 2 — και το παράθυρο των 3 εβδομάδων.</p></a>
+    <a class="tarjeta" href="/prostimo-kteo/" style="display:block"><h3><i class="fa-solid fa-triangle-exclamation"></i>Πρόστιμο 400€ + παράβολα</h3><p class="meta">Τι πληρώνετε στην τροχαία και τι στον σταθμό (18-67€).</p></a>
+    <a class="tarjeta" href="/kteo-times/" style="display:block"><h3><i class="fa-solid fa-euro-sign"></i>Τιμές: 40-70€ το ΙΧ</h3><p class="meta">Ελεύθερες τιμές, προσφορές από 40€ — πώς συγκρίνετε.</p></a>
+    <a class="tarjeta" href="/karta-kafsaerion/" style="display:block"><h3><i class="fa-solid fa-smog"></i>Κάρτα καυσαερίων: νέο 2026</h3><p class="meta">Εκδίδεται πλέον μόνο σε ΚΤΕΟ — τι σημαίνει για εσάς.</p></a>
+  </div>
+
+  <h2>Σταθμοί ανά περιοχή <a href="/stathmoi/" style="font-size:.85rem;font-weight:600;margin-left:8px">Όλες οι περιοχές →</a></h2>
+  <div class="grid">
+    {top.map(e => <a class="tarjeta" href={`/periochi/${e.slug}/`} style="display:block"><h3><i class="fa-solid fa-map-location-dot"></i>ΚΤΕΟ {e.enotita}</h3><p class="meta">{e.n} {e.n === 1 ? 'σταθμός' : 'σταθμοί'}</p></a>)}
+  </div>
+
+  <h2>Ανά περιφέρεια</h2>
+  <div class="grid">
+    {Object.values(regiones).sort((a,b) => a.region.localeCompare(b.region, 'el')).map(r => <a class="tarjeta" href={`/periferia/${r.slug}/`} style="display:block"><h3><i class="fa-solid fa-map"></i>{r.region}</h3><p class="meta">{r.n} σταθμοί</p></a>)}
+  </div>
+
+  <h2>Πώς λειτουργεί αυτός ο ιστότοπος</h2>
+  <p>Συγκεντρώνουμε σε ένα σημείο ό,τι είναι διάσπαρτο: τον <strong>επίσημο κατάλογο σταθμών</strong> του Υπουργείου Υποδομών και Μεταφορών (με απευθείας τηλέφωνα), τους κανόνες της <strong>ισχύουσας νομοθεσίας</strong> και πρακτικές απαντήσεις στα ερωτήματα που πραγματικά απασχολούν τους οδηγούς. <strong>Δεν είμαστε κρατικός φορέας</strong> και δεν μεσολαβούμε σε ραντεβού — σας δείχνουμε τον επαληθευμένο δρόμο για να τα κάνετε μόνοι σας, δωρεάν.</p>
+</main>
+</Base>

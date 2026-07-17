@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import stathmoi from '../../data/stathmoi.json';
+const regiones = {};
+for (const s of stathmoi) (regiones[s.regionSlug] ||= { slug: s.regionSlug, region: s.region, n: 0 }).n++;
+const title = `Όλα τα ΚΤΕΟ της Ελλάδας: ${stathmoi.length} σταθμοί (επίσημος κατάλογος)`;
+const desc = `Πλήρης κατάλογος και των ${stathmoi.length} σταθμών τεχνικού ελέγχου στην Ελλάδα — δημόσια ΚΤΕΟ και ΙΚΤΕΟ — με τηλέφωνο και διεύθυνση από τα επίσημα στοιχεία του Υπουργείου Μεταφορών, ανά περιφέρεια.`;
+---
+<Base title={title} desc={desc}>
+<main class="wrap">
+  <div class="migas"><a href="/">Αρχική</a> › Σταθμοί ΚΤΕΟ</div>
+  <p class="eyebrow">{stathmoi.length} σταθμοί · 13 περιφέρειες · επίσημα στοιχεία ΥΠ.ΥΜΕ</p>
+  <h1 style="color:var(--verde);font-size:1.7rem">Όλοι οι σταθμοί ΚΤΕΟ της Ελλάδας</h1>
+  <p class="lede">Κάθε αδειοδοτημένος σταθμός — δημόσιος ή ιδιωτικός — με τηλέφωνο και διεύθυνση. Διαλέξτε περιφέρεια ή αναζητήστε με όνομα και περιοχή.</p>
+  <input class="filtro" id="filtro" type="search" placeholder="Αναζήτηση σταθμού ή περιοχής (π.χ. Πυλαία, Δράμα, κωδ. 149)…" autocomplete="off" />
+  <div class="grid" id="regiones">
+    {Object.values(regiones).sort((a,b) => a.region.localeCompare(b.region, 'el')).map(rr => <a class="tarjeta" href={`/periferia/${rr.slug}/`} style="display:block"><h3><i class="fa-solid fa-map"></i>{rr.region}</h3><p class="meta">{rr.n} σταθμοί</p></a>)}
+  </div>
+  <div class="grid" id="apotelesmata" style="display:none"></div>
+  <div class="fuente">Πηγή: επίσημος κατάλογος λειτουργούντων ΚΤΕΟ, Υπουργείο Υποδομών και Μεταφορών.</div>
+</main>
+<script define:vars={{ mini: stathmoi.map(s => ({ slug: s.slug, t: s.titlos.slice(0, 45), e: s.enotita, k: s.kod })) }}>
+const inp = document.getElementById('filtro');
+const regs = document.getElementById('regiones');
+const apo = document.getElementById('apotelesmata');
+const norm = t => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+inp.addEventListener('input', () => {
+  const q = norm(inp.value.trim());
+  if (q.length < 2) { regs.style.display = ''; apo.style.display = 'none'; return; }
+  const hits = mini.filter(s => norm(s.t).includes(q) || norm(s.e).includes(q) || s.k.includes(q)).slice(0, 24);
+  regs.style.display = 'none'; apo.style.display = '';
+  apo.innerHTML = hits.length ? hits.map(s => `<a class="tarjeta" href="/kteo/${s.slug}/" style="display:block"><h3><i class="fa-solid fa-car-on"></i>${s.t}</h3><p class="meta">${s.e} · κωδ. ${s.k}</p></a>`).join('') : '<p>Δεν βρέθηκε τίποτα — δοκιμάστε άλλη περιοχή.</p>';
+});
+</script>
+</Base>

@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import { odigos } from '../../data/odigos.js';
+const title = 'Οδηγός ΚΤΕΟ: προθεσμίες, πρόστιμα, τιμές και κάρτα καυσαερίων';
+const desc = 'Όλα όσα χρειάζεται να ξέρετε για το ΚΤΕΟ σε απλά ελληνικά: πότε περνάτε, τι πληρώνετε, τι ισχύει αν έληξε, και οι αλλαγές του 2026 στην κάρτα καυσαερίων.';
+---
+<Base title={title} desc={desc}>
+<main class="wrap">
+  <div class="migas"><a href="/">Αρχική</a> › Οδηγός</div>
+  <h1 style="color:var(--verde);font-size:1.7rem">Οδηγός ΚΤΕΟ, χωρίς περιττά λόγια</h1>
+  <p class="lede">Κάθε άρθρο βασίζεται στην ισχύουσα νομοθεσία και στις επίσημες πηγές — και σας λέει κατευθείαν τι να κάνετε.</p>
+  <div class="grid">
+    {odigos.map(g => <a class="tarjeta" href={`/${g.slug}/`} style="display:block"><h3><i class={`fa-solid ${g.icono}`}></i>{g.corto}</h3><p>{g.gancho}</p><p class="meta" style="color:var(--verde2);font-weight:600">Διαβάστε →</p></a>)}
+  </div>
+  <div class="fuente">Δεσμευτική πηγή είναι πάντα η ισχύουσα νομοθεσία και τα επίσημα κανάλια του κράτους.</div>
+</main>
+</Base>

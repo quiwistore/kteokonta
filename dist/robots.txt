@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kteokonta.com/sitemap.xml

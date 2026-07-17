@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import stathmoi from '../../data/stathmoi.json';
+
+export function getStaticPaths() {
+  const mapa = {};
+  for (const s of stathmoi) {
+    (mapa[s.regionSlug] ||= { slug: s.regionSlug, region: s.region, list: [] }).list.push(s);
+  }
+  return Object.values(mapa).map(r => ({ params: { region: r.slug }, props: { r } }));
+}
+const { r } = Astro.props;
+const enotites = {};
+for (const s of r.list) (enotites[s.enotitaSlug] ||= { slug: s.enotitaSlug, enotita: s.enotita, n: 0 }).n++;
+const title = `ΚΤΕΟ ${r.region}: ${r.list.length} σταθμοί ανά περιοχή`;
+const desc = `Όλοι οι ${r.list.length} σταθμοί τεχνικού ελέγχου (ΚΤΕΟ και ΙΚΤΕΟ) στην περιφέρεια ${r.region}, οργανωμένοι ανά περιοχή, με τηλέφωνα από τον επίσημο κατάλογο.`;
+---
+<Base title={title} desc={desc}>
+<main class="wrap">
+  <div class="migas"><a href="/">Αρχική</a> › {r.region}</div>
+  <p class="eyebrow">{r.list.length} σταθμοί · {Object.keys(enotites).length} περιοχές</p>
+  <h1 style="color:var(--verde);font-size:1.7rem">Σταθμοί ΚΤΕΟ — {r.region}</h1>
+  <p class="lede">Πλήρης κατάλογος των αδειοδοτημένων σταθμών της περιφέρειας, ανά περιοχή. Σε κάθε σταθμό θα βρείτε τηλέφωνο, διεύθυνση και χάρτη.</p>
+  <div class="grid">
+    {Object.values(enotites).sort((a,b) => a.enotita.localeCompare(b.enotita, 'el')).map(en => <a class="tarjeta" href={`/periochi/${en.slug}/`} style="display:block"><h3><i class="fa-solid fa-map-location-dot"></i>{en.enotita}</h3><p class="meta">{en.n} {en.n === 1 ? 'σταθμός' : 'σταθμοί'}</p></a>)}
+  </div>
+  <h2>Χρήσιμα πριν την επίσκεψη</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/pote-pernao-kteo/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Πότε περνάω ΚΤΕΟ</h3><p class="meta">Προθεσμίες για ΙΧ, μηχανή και φορτηγό.</p></a>
+    <a class="tarjeta" href="/kteo-times/" style="display:block"><h3><i class="fa-solid fa-euro-sign"></i>Τιμές 2026</h3><p class="meta">Τι πληρώνετε και πώς συγκρίνετε.</p></a>
+    <a class="tarjeta" href="/karta-kafsaerion/" style="display:block"><h3><i class="fa-solid fa-smog"></i>Κάρτα καυσαερίων</h3><p class="meta">Από το 2026 εκδίδεται μόνο σε ΚΤΕΟ.</p></a>
+  </div>
+  <div class="fuente">Πηγή: επίσημος κατάλογος λειτουργούντων ΚΤΕΟ, Υπουργείο Υποδομών και Μεταφορών.</div>
+</main>
+</Base>

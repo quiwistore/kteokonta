@@ -1,0 +1,4863 @@
+[
+{
+"tipo": "ikteo",
+"kod": "121",
+"titlos": "ΙΚΤΕΟ ΔΡΑΜΑΣ ΕΠΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΔΡΑΜΑΣ Ε.Π.Ε.",
+"dir": "13ο ΧΛΜ Ε.Ο. ΔΡΑΜΑΣ-ΚΑΒΑΛΑΣ, ΔΟΞΑΤΟ 66300",
+"tel": "2521068777 2521067444",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΔΡΑΜΑΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "dramas",
+"slug": "ikteo-dramas-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "149",
+"titlos": "ΙΚΤΕΟ ΚΑΒΑΛΑΣ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΚΑΒΑΛΑΣ ΑΕ",
+"dir": "ΣΤΑΥΡΟΣ ΑΜΥΓΔΑΛΕΩΝΑ ΚΑΒΑΛΑ",
+"tel": "2510392444",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ ( L4e, L5e, L7e )",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΚΑΒΑΛΑΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "kavalas",
+"slug": "ikteo-kavalas-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "165",
+"titlos": "ΙΚΤΕΟ ΑΦΟΙ ΣΠΥΡΙΔΟΠΟΥΛΟΙ",
+"eponimia": "Ι Κ.Τ.Ε.Ο ΑΦΟΙ ΣΠΥΡΙΔΟΠΟΥΛΟΙ ΟΕ",
+"dir": "7 ΧΛΜ ΔΡΑΜΑΣ- ΣΕΡΡΩΝ ΤΚ 66100",
+"tel": "2521074500",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΔΡΑΜΑΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "dramas",
+"slug": "ikteo-afoi-spyridopoyloi"
+},
+{
+"tipo": "ikteo",
+"kod": "166",
+"titlos": "ΙΚΤΕΟ ΔΡΑΜΑΣ",
+"eponimia": "Σ & Π. ΣΤΑΜΑΤΙΑΔΗ Ο.Ε.",
+"dir": "ΤΕΡΜΑ 1η ΙΟΥΛΙΟΥ (ΚΟΜΒΟΣ CARREFOUR) TK 66100 ΔΡΑΜΑ",
+"tel": "2521020800",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΔΡΑΜΑΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "dramas",
+"slug": "ikteo-dramas"
+},
+{
+"tipo": "ikteo",
+"kod": "178",
+"titlos": "ΙΚΤΕΟ ΚΑΒΑΛΑΣ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΚΑΒΑΛΑΣ ΑΕ",
+"dir": "ΔΙΑΣΤΑΥΡΩΣΗ ΧΡΥΣΟΥΠΟΛΗΣ, ΚΑΒΑΛΑ ΤΚ 64012",
+"tel": "2591041044",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΚΑΒΑΛΑΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "kavalas",
+"slug": "ikteo-kavalas-ae-kavalas"
+},
+{
+"tipo": "ikteo",
+"kod": "184",
+"titlos": "ΙΚΤΕΟ - ΘΡΑΚΙΚΑ ΕΚΚΟΚΙΣΤΗΡΙΑ Α.Ε.",
+"eponimia": "ΙΚΤΕΟ - ΘΡΑΚΙΚΑ ΕΚΚΟΚΙΣΤΗΡΙΑ Α.Ε.",
+"dir": "1ο ΧΛΜ ΕΠΑΡΧ. ΟΔΟΥ ΚΟΜΟΤΗΝΗΣ - ΠΑΓΟΥΡΙΩΝ ΤΚ 69100",
+"tel": "2531081010",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΡΟΔΟΠΗΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "rodopis",
+"slug": "ikteo-thrakika-ekkokistiria-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "190",
+"titlos": "ΙΚΤΕΟ ΞΑΝΘΗΣ ΕΠΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΞΑΝΘΗ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "3ΧΛΜ Ε.Ο ΞΑΝΘΗΣ-ΚΟΜΟΤΗΝΗΣ 67100 ΞΑΝΘΗ",
+"tel": "2541072424",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΞΑΝΘΗΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "xanthis",
+"slug": "ikteo-xanthis-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "194",
+"titlos": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΔΙΑΓΝΩΣΗ",
+"eponimia": "ΙΚΤΕΟ ΚΑΛΑ'Ι΄ΤΖΗ ΜΟΝΟΠΡΟΣΩΠΗ ΕΤΑΙΡΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "3ο ΧΛΜ Ε.Ο. ΞΑΝΘΗΣ - ΚΑΒΑΛΑΣ (ΕΥΜΟΙΡΟ) 67100",
+"tel": "2541066566",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΞΑΝΘΗΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "xanthis",
+"slug": "idiotiko-kteo-diagnosi"
+},
+{
+"tipo": "ikteo",
+"kod": "198",
+"titlos": "ΙΚΤΕΟ ΕΒΡΟΥ ΕΠΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΕΒΡΟΥ ΕΤΑΙΡΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "7ο ΧΛΜ ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ ΦΕΡΩΝ – ΑΓΝΑΝΤΙΑ, 68100 ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+"tel": "2551052010",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΕΒΡΟΥ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "evroy",
+"slug": "ikteo-evroy-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "239",
+"titlos": "MY ΙΚΤΕΟ ΕΒΡΟΥ ΙΚΕ",
+"eponimia": "MY ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΕΒΡΟΥ Ι.Κ.Ε.",
+"dir": "ΒΙ.ΠΙ ΟΡΕΣΤΙΑΔΑΣ, 68200 ΟΡΕΣΤΙΑΔΑ",
+"tel": "2552027888",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΕΒΡΟΥ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "evroy",
+"slug": "my-ikteo-evroy-ike"
+},
+{
+"tipo": "ikteo",
+"kod": "248",
+"titlos": "Ι.ΚΤΕΟ ΡΟΔΟΠΗΣ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΡΟΔΟΠΗΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "3Ο ΧΛΜ ΚΟΜΟΤΗΝΗΣ- ΡΟΔΙΤΗ, ΘΕΣΗ ΑΜΠΕΛΟΙ ΚΟΜΟΤΗΝΗ 69100",
+"tel": "2531085200 2531080140",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΡΟΔΟΠΗΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "rodopis",
+"slug": "i-kteo-rodopis-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "290",
+"titlos": "POTOS CARENTAL SA (ΙΚΤΕΟ ΘΑΣΟΥ)",
+"eponimia": "Δ.ΔΑΛΓΙΑΝΝΑΚΗΣ Ανώνυμη Τουριστική Εμπορική Τεχνική Οικοδομική Ξενοδοχειακή Εστιατορική Εταιρία Α.Ε.",
+"dir": "ΑΣΤΡΙΣ ΘΑΣΟΥ, 64002",
+"tel": "2593055020",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΘΑΣΟΥ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "thasoy",
+"slug": "potos-carental-sa-ikteo-thasoy"
+},
+{
+"tipo": "ikteo",
+"kod": "305",
+"titlos": "Ι.ΚΤΕΟ EVROS CONTROL P.C.",
+"eponimia": "ΤΣΙΡΩΖΗΣ ΑΠΟΣΤΟΛΟΣ - ΔΕΔΟΓΛΟΥ ΚΩΝ/ΝΟΣ - ΡΑΜΑΔΑΝΗΣ ΠΑΣΧΑΛΗΣ - ΙΣΙΔΩΡΙΔΗΣ ΑΘΑΝΑΣΙΟΣ Ι.Κ.Ε.",
+"dir": "2o ΧΛΜ ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ ΦΕΡΩΝ, ΤΘ 1032, 68100 ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+"tel": "2551032222",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΕΒΡΟΥ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "evroy",
+"slug": "i-kteo-evros-control-p-c"
+},
+{
+"tipo": "ikteo",
+"kod": "313",
+"titlos": "Ι.ΚΤΕΟ ΕΒΡΟΥ Ε.Π.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΕΒΡΟΥ ΕΤΑΙΡΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "2ο ΧΛΜ ΕΠΑΡΧ.ΟΔΟΥ ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ - ΚΙΡΚΗΣ Τ.Κ.68100",
+"tel": "2551034777",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΕΒΡΟΥ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "evroy",
+"slug": "i-kteo-evroy-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "366",
+"titlos": "IKTEO SAFE CONTROL P.C.",
+"eponimia": "ΤΣΙΡΩΖΗΣ ΑΠΟΣΤΟΛΟΣ-ΤΣΙΡΩΖΗ ΜΑΡΙΑ-ΑΛΚΙΣΤΙΣ - ΑΡΧΟΝΤΑΚΗΣ ΔΗΜΗΤΡΙΟΣ Ι.Κ.Ε.",
+"dir": "ΒΙΟΠΑ ΟΡΕΣΤΙΑΔΑΣ ΟΤ1, στον Δήμο Ορεστιάδας-Έβρου",
+"tel": "2552026016",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΕΒΡΟΥ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "evroy",
+"slug": "ikteo-safe-control-p-c"
+},
+{
+"tipo": "ikteo",
+"kod": "376",
+"titlos": "─",
+"eponimia": "ΔΙΑΓΝΩΣΗ ΞΑΝΘΗΣ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
+"dir": "Δημοτική Οδός Ξάνθης - Κομοτηνής (χ.θ. 1+500 δεξιά), Τ.Κ. 67100, Ξάνθη",
+"tel": "2541065777",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΞΑΝΘΗΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "xanthis",
+"slug": "kteo-376"
+},
+{
+"tipo": "ikteo",
+"kod": "384",
+"titlos": "Ι ΚΤΕΟ ΟΡΕΣΤΙΑΔΑΣ Ι.Κ.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΟΡΕΣΤΙΑΔΑΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Οικισμός Καβύλης Δήμου Ορεστιάδας, Νομός Έβρου, Τ.Κ. 68200, Ορεστιάδα",
+"tel": "2552093674",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΕΒΡΟΥ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "evroy",
+"slug": "i-kteo-orestiadas-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "105",
+"titlos": "EUROKTEO Α.Ε. και KTEOHellas Α.Ε",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΔΕΚΕΛΕΙΑΣ 100 & ΑΝΕΜΩΝΗΣ 5, ΑΧΑΡΝΑΙ, 13678",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "eurokteo-a-e-kai-kteohellas-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "111",
+"titlos": "EUROKTEO ΑΕ",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α. Ε",
+"dir": "ΜΠΙΧΑΚΗ 30 ΑΓ.Ι.ΡΕΝΤΗΣ 18233 ΑΘΗΝΑ",
+"tel": "2104901349 & 10300",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΠΕΙΡΑΙΩΣ & ΝΗΣΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "peiraios-nison",
+"slug": "eurokteo-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "142",
+"titlos": "EUROKTEO Α.Ε. και KTEOHellas Α.Ε",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Λ. ΜΑΡΑΘΩΝΟΣ 9 & ΜΑΚΡΥΓΙΑΝΝΗ, ΓΕΡΑΚΑΣ 15344",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "eurokteo-a-e-kai-kteohellas-a-e-anatolikis-attikis"
+},
+{
+"tipo": "ikteo",
+"kod": "169",
+"titlos": "EUROKTEO Α.Ε. και KTEOHellas Α.Ε",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΔΥΡΡΑΧΙΟΥ 6-8, ΒΑΡΗ 16672",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "eurokteo-a-e-kai-kteohellas-a-e-2"
+},
+{
+"tipo": "ikteo",
+"kod": "172",
+"titlos": "J&P ΑΒΑΞ ΙΚΤΕΟ Α.Ε",
+"eponimia": "J&P ΑΒΑΞ ΕΚΜΕΤΑΛΛΕΥΣΗ ΙΔΙΩΤΙΚΩΝ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Λ. ΑΘΗΝΩΝ 107 ΑΘΗΝΑ 10447",
+"tel": "102030",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΚΕΝΤΡΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "kentrikoy-tomea-athinon",
+"slug": "j-p-avax-ikteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "175",
+"titlos": "ΙΚΤΕΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+"eponimia": "ΜΙΧΑΛΑΡΟΣ ΑΝΔΡΙΑΝΟΣ & ΣΙΑ ΟΕ",
+"dir": "41o ΧΛΜ ΝΕΟΑΚ ΘΕΣΗ ΣΤΕΦΑΝΗ (ΒΑΣΙΛΙΚΟ) ΜΕΓΑΡΑ ΑΤΤΙΚΗΣ 19100",
+"tel": "2296080300",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikis-attikis",
+"slug": "ikteo-dytikis-attikis"
+},
+{
+"tipo": "ikteo",
+"kod": "177",
+"titlos": "ΑΒΑΞ ΙΚΤΕΟ Α.Ε.",
+"eponimia": "ΑΒΑΞ ΕΚΜΕΤΑΛΛΕΥΣΗ ΙΔΙΩΤΙΚΩΝ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Λ. ΚΗΦΙΣΟΥ 88 ΜΟΣΧΑΤΟ-ΤΑΥΡΟΣ 18346",
+"tel": "102030",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "notioy-tomea-athinon",
+"slug": "avax-ikteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "182",
+"titlos": "EUROKTEO Α.Ε. και KTEOHellas Α.Ε",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΠΕΙΡΑΙΩΣ 50, ΠΕΙΡΑΙΑΣ 18547",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΠΕΙΡΑΙΩΣ & ΝΗΣΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "peiraios-nison",
+"slug": "eurokteo-a-e-kai-kteohellas-a-e-peiraios-nison"
+},
+{
+"tipo": "ikteo",
+"kod": "195",
+"titlos": "CARCONTROL",
+"eponimia": "CAR CONTROL IKTEO A.E.E.",
+"dir": "ΠΕΤΡΟΥ ΡΑΛΛΗ 16 17778",
+"tel": "2103422100",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "notioy-tomea-athinon",
+"slug": "carcontrol"
+},
+{
+"tipo": "ikteo",
+"kod": "203",
+"titlos": "ΙΚΤΕΟ ΑΣΠΡΟΠΥΡΓΟΥ ΜΟΝΟΠΡΟΣΩΠΗ Ε.Π.Ε.",
+"eponimia": "ΙΚΤΕΟ ΑΣΠΡΟΠΥΡΓΟΥ ΠΑΠΑΖΟΓΛΟΥ ΜΟΝ. ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "ΚΡΙΕΖΗ 52, Ο.Τ. 253, ΑΣΠΡΟΠΥΡΓΟΣ ΑΤΤΙΚΗΣ 19300",
+"tel": "2105570120",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikis-attikis",
+"slug": "ikteo-aspropyrgoy-monoprosopi-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "204",
+"titlos": "AUTO CHECK Ε.Π.Ε.",
+"eponimia": "AUTO CHECK ΙΔΙΩΤΙΚΟ Κ.Τ.Ε.Ο.- ΕΤΑΙΡΕΙΑΣ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "Ι ΜΕΤΑΞΑ 87 ΚΟΡΩΠΙ 19400",
+"tel": "2106641888",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "auto-check-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "212",
+"titlos": "EUROKTEO Α.Ε.",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α. Ε",
+"dir": "Λ ΑΘΗΝΩΝ 282, ΧΑΪΔΑΡΙ, 12462",
+"tel": "2105811814 10300",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikoy-tomea-athinon",
+"slug": "eurokteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "213",
+"titlos": "EUROKTEO Α.Ε.",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α. Ε",
+"dir": "Λ.ΔΗΜΟΚΡΑΤΙΑΣ 322, ΑΓ. ΑΝΑΡΓΥΡΟΙ 13562",
+"tel": "2102381176 & 10300",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "eurokteo-a-e-anatolikis-attikis"
+},
+{
+"tipo": "ikteo",
+"kod": "218",
+"titlos": "Ι.ΚΤΕΟ ΚΟΜΒΟΣ ΑΜΑΡΟΥΣΙΟΥ Α.Ε.",
+"eponimia": "Ι.ΚΤΕΟ ΚΟΜΒΟΣ ΑΜΑΡΟΥΣΙΟΥ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΧΕΙΜΑΡΡΑΣ & ΓΡΑΝΙΚΟΥ 2, 15125 ΜΑΡΟΥΣΙ ΑΤΤΙΚΗΣ",
+"tel": "2106101220",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΒΟΡΕΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "voreioy-tomea-athinon",
+"slug": "i-kteo-komvos-amaroysioy-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "219",
+"titlos": "ΗΝΙΟΧΟΣ Ι.ΚΤΕΟ Α.Ε.",
+"eponimia": "ΗΝΙΟΧΟΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΙΔΡΥΣΗΣ, ΛΕΙΤΟΥΡΓΙΑΣ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΙΔΙΩΤΙΚΩΝ ΚΤΕΟ ΚΑΙ ΤΕΧΝΟΛΟΓΙΚΩΝ ΕΦΑΡΜΟΓΩΝ ΟΧΗΜΑΤΩΝ",
+"dir": "ΚΛΕΙΣΘΕΝΟΥΣ 175 & ΝΙΟΒΗΣ 40, ΓΕΡΑΚΑΣ ΑΤΤΙΚΗΣ 15344",
+"tel": "2111027000 2106090721",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "iniochos-i-kteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "220",
+"titlos": "CHECK POINT",
+"eponimia": "ΕΥΚΛΕΙΔΗΣ ΓΚΟΥΜΑΣ & ΣΙΑ Ο.Ε.",
+"dir": "ΕΞΟΔΟΣ 4 ΑΤΤΙΚΗΣ ΟΔΟΥ ΑΣΠΡΟΠΥΡΓΟΥ, ΘΕΣΗ ΚΥΡΙΛΛΟΣ, ΤΚ. 19300 ΑΣΠΡΟΠΥΡΓΟΣ",
+"tel": "2105584205 & 11710",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikis-attikis",
+"slug": "check-point"
+},
+{
+"tipo": "ikteo",
+"kod": "229",
+"titlos": "ΙΚΤΕΟ ΠΑΛΛΗΝΗΣ ΕΠΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΠΑΛΛΗΝΗΣ ΕΤΑΙΡΕΙΑΣ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "Λ. ΑΝΘΟΥΣΑΣ 24",
+"tel": "2106666668",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "ikteo-pallinis-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "230",
+"titlos": "ΙΚΤΕΟ ΚΟΜΒΟΣ ΑΜΦΙΘΕΑΣ Α.Ε.",
+"eponimia": "ΙΚΤΕΟ ΚΟΜΒΟΣ ΑΜΦΙΘΕΑΣ Α.Ε.",
+"dir": "ΠΕΛΟΠΟΣ 33 & ΜΥΚΗΝΩΝ 12, 17564",
+"tel": "2109484301",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "notioy-tomea-athinon",
+"slug": "ikteo-komvos-amfitheas-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "232",
+"titlos": "ΠΗΓΑΣΟΣ ΙΚΤΕΟ ΜΟΝ Α.Ε.",
+"eponimia": "ΠΗΓΑΣΟΣ ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Ι. ΠΟΛΕΜΗ & ΔΕΡΒΕΝΙΩΝ, ΜΕΤΑΜΟΡΦΩΣΗ ΑΤΤΙΚΗΣ 14451",
+"tel": "2102838960",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΒΟΡΕΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "voreioy-tomea-athinon",
+"slug": "pigasos-ikteo-mon-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "246",
+"titlos": "AUTOVISION SAKAR A.E.",
+"eponimia": "AUTOVISION SAKAR A.E. ΙΔΙΩΤΙΚΟΣ ΤΕΧΝΙΚΟΣ ΕΛΕΓΧΟΣ ΟΧΗΜΑΤΩΝ - ΠΙΣΤΟΠΟΙΗΣΕΙΣ ΑΕ",
+"dir": "ΚΑΛΥΦΤΑΚΗ 1 & ΜΕΝΕΞΕΔΩΝ, ΚΑΤΩ ΚΗΦΙΣΙΑ 145 64 ΑΤΤΙΚΗ",
+"tel": "213 0188000",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΒΟΡΕΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "voreioy-tomea-athinon",
+"slug": "autovision-sakar-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "249",
+"titlos": "ΠΗΓΑΣΟΣ Ι ΚΤΕΟ ΜΟΝ ΑΕ",
+"eponimia": "ΠΗΓΑΣΟΣ ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Λ. ΦΥΛΗΣ 81, ΚΑΜΑΤΕΡΟ 13451",
+"tel": "2102388333",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikoy-tomea-athinon",
+"slug": "pigasos-i-kteo-mon-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "253",
+"titlos": "I.KTEO CITY CONTROL M.EPE",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΙΩΝΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΜΟΝΟΠΡΟΣΩΠΗ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "ΕΡΜΟΥ 3, Ν.ΙΩΝΙΑ, 14234",
+"tel": "2102777877",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΒΟΡΕΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "voreioy-tomea-athinon",
+"slug": "i-kteo-city-control-m-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "254",
+"titlos": "AUTOMOTO IKTEO A.E.",
+"eponimia": "AUTOMOTO ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΠΑΤΡΟΚΛΟΥ 23, ΙΛΙΟΝ ΑΤΤΙΚΗΣ 13122",
+"tel": "2102693018",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikoy-tomea-athinon",
+"slug": "automoto-ikteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "255",
+"titlos": "ΙΚΤΕΟ ΣΥΚΑΜΙΝΟΥ",
+"eponimia": "ΙΩΑΝΝΑ ΤΖΕΒΕΛΕΚΟΥ ΚΑΙ ΣΙΑ Ε.Ε.",
+"dir": "ΛΕΩΦΟΡΟΣ ΣΥΚΑΜΙΝΟΥ ΩΡΩΠΟΥ- ΘΕΣΗ «ΙΔΙΟΚΤΗΤΑ» ΕΠΙ ΤΗΣ ΚΥΡΙΑΣ ΟΔΟΥ ΣΚΑΛΑΣ - ΩΡΟΠΟΥ - ΑΥΛΩΝΑ 19015",
+"tel": "2295079888",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e,L4e,L5e,L7e)",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "ikteo-sykaminoy"
+},
+{
+"tipo": "ikteo",
+"kod": "256",
+"titlos": "ΙΚΤΕΟ ΑΓ. ΣΤΕΦΑΝΟΥ ΕΠΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΓΙΟΥ ΣΤΕΦΑΝΟΥ ΕΤΑΙΡΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "ΚΟΙΜΗΣΕΩΣ ΘΕΟΤΟΚΟΥ ΚΑΙ ΠΡΕΒΕΖΗΣ ΔΗΜΟΣ ΑΓΙΟΥ ΣΤΕΦΑΝΟΥ 14565",
+"tel": "2108141701",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "ikteo-ag-stefanoy-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "262",
+"titlos": "EUROKTEO Α.Ε.",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΛΕΩΦΟΡΟΣ ΚΗΦΙΣΟΥ 12, ΠΕΡΙΣΤΕΡΙ 12133",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikoy-tomea-athinon",
+"slug": "eurokteo-a-e-dytikoy-tomea-athino"
+},
+{
+"tipo": "ikteo",
+"kod": "270",
+"titlos": "ΙΚΤΕΟ ΤΕΧΝΟΚΙΝΗΣΗ ΕΠΕ",
+"eponimia": "ΑΝΥΨΩΤΙΚΗ & ΣΙΑ ΕΠΕ",
+"dir": "ΘΕΣΗ ΡΟΥΠΑΚΙ-ΤΡΙΑ ΠΕΥΚΑ-ΛΑΚΚΟΣ ΣΚΛΗΡΟΥ, 19300, ΑΣΠΡΟΠΥΡΓΟΣ ΑΤΤΙΚΗΣ",
+"tel": "2105596007",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikis-attikis",
+"slug": "ikteo-technokinisi-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "271",
+"titlos": "ΚΤΕΟ Λ.ΘΗΒΩΝ Α.Ε",
+"eponimia": "ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Λ.ΘΗΒΩΝ Α.Ε",
+"dir": "Λ.ΘΗΒΩΝ 212 ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ ΑΤΤΙΚΗΣ 18233",
+"tel": "2104921000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΠΕΙΡΑΙΩΣ & ΝΗΣΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "peiraios-nison",
+"slug": "kteo-l-thivon-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "273",
+"titlos": "ΙΚΤΕΟ ΘΡΙΑΣΙΟΥ ΠΕΔΙΟΥ",
+"eponimia": "ΙΚΤΕΟ ΘΡΙΑΣΙΟΥ ΠΕΔΙΟΥ ΒΑΡΕΩΝ ΚΑΙ ΕΠΙΒΑΤΙΚΩΝ ΟΧΗΜΑΤΩΝ Α.Ε.",
+"dir": "Λ. ΓΕΝΝΗΜΑΤΑ (ΘΕΣΗ ΧΑΒΩΣΗ) ΜΑΓΟΥΛΑ ΑΤΤΙΚΗΣ 19018",
+"tel": "2105553268",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikis-attikis",
+"slug": "ikteo-thriasioy-pedioy"
+},
+{
+"tipo": "ikteo",
+"kod": "279",
+"titlos": "Ι.Κ.Τ.Ε.Ο ΣΑΛΑΜΙΝΑΣ Ο.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΣΑΛΑΜΙΝΑΣ ΟΕ",
+"dir": "ΠΡΟΦΗΤΗ ΗΛΙΑ 58 ΣΠΗΛΙΑ ΜΠΑΤΣΙ, 18900 ΣΑΛΑΜΙΝΑ",
+"tel": "2104684800",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΠΕΙΡΑΙΩΣ & ΝΗΣΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "peiraios-nison",
+"slug": "i-k-t-e-o-salaminas-o-e"
+},
+{
+"tipo": "ikteo",
+"kod": "281",
+"titlos": "EUROKTEO Α.Ε.",
+"eponimia": "EUROPEANKTEO-ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α. Ε",
+"dir": "18.5 XΛΜ N.E.O AΘΗΝΩΝ - ΚΟΡΙΝΘΟΥ 19300",
+"tel": "2105573034 & 10300",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikis-attikis",
+"slug": "eurokteo-a-e-dytikis-attikis"
+},
+{
+"tipo": "ikteo",
+"kod": "298",
+"titlos": "ΠΗΓΑΣΟΣ Ι ΚΤΕΟ ΜΟΝ ΑΕ",
+"eponimia": "ΠΗΓΑΣΟΣ ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Λ. ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ & ΣΤ.ΓΟΝΑΤΑ, ΤΚ12133, ΠΕΡΙΣΤΕΡΙ",
+"tel": "2102388333",
+"cats": [
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikoy-tomea-athinon",
+"slug": "pigasos-i-kteo-mon-ae-dytikoy-tomea-athino"
+},
+{
+"tipo": "ikteo",
+"kod": "299",
+"titlos": "ΚΤΕΟ Λ.ΘΗΒΩΝ Α.Ε",
+"eponimia": "ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Λ ΘΗΒΩΝ Α.Ε",
+"dir": "30ο ΧΛΜ. ΠΑΙΑΝΙΑΣ - ΜΑΡΚΟΠΟΥΛΟΥ, ΠΑΡΑΔΡΟΜΟΣ ΑΤΤΙΚΗΣ ΟΔΟΥ, ΘΕΣΗ \"ΠΟΥΣΙ ΛΕΔΙ\", ΕΝΤΟΣ ΒΙ.ΠΕ. ΔΗΜΟΥ ΠΑΙΑΝΙΑΣ & ΓΛΥΚΩΝ ΝΕΡΩΝ ΑΤΤΙΚΗΣ",
+"tel": "2104921000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e, L4e, L5e, L7e)",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "kteo-l-thivon-a-e-anatolikis-attikis"
+},
+{
+"tipo": "ikteo",
+"kod": "303",
+"titlos": "ECOCHECK",
+"eponimia": "ΙΚΤΕΟ ECO CHECK Ι.Κ.Ε.",
+"dir": "ΠΕΙΡΑΙΟΣ 38 ΜΟΣΧΑΤΟ 18346",
+"tel": "2104834333",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "notioy-tomea-athinon",
+"slug": "ecocheck"
+},
+{
+"tipo": "ikteo",
+"kod": "310",
+"titlos": "EUROKTEO Α.Ε. και KTEOHellas Α.Ε",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "2o XΛΜ ΚΟΡΩΠΙΟΥ - ΒΑΡΗΣ, Δ. ΚΡΩΠΙΑΣ, Ν. ΑΤΤΙΚΗΣ 19400",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "eurokteo-a-e-kai-kteohellas-a-e-3"
+},
+{
+"tipo": "ikteo",
+"kod": "318",
+"titlos": "ENERGY MARKET",
+"eponimia": "ENERGY MARKET ΠΑΡΑΓΩΓΗ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "Λ. ΚΗΦΙΣΟΥ 73, ΑΙΓΑΛΕΩ ΑΤΤΙΚΗΣ 122 41",
+"tel": "2155350003 2103471532",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikoy-tomea-athinon",
+"slug": "energy-market"
+},
+{
+"tipo": "ikteo",
+"kod": "328",
+"titlos": "ΕΥΡΟΚΤΕΟ ΜΕΣΟΓΕΙΩΝ Α.Ε.",
+"eponimia": "ΕΥΡΩΠΑΪΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "0,5 ΧΛΜ ΜΑΡΚΟΠΟΥΛΟΥ-ΛΑΥΡΙΟΥ ΜΑΡΚΟΠΟΥΛΟ ΜΕΣΟΓΑΙΑΣ ΑΤΤΙΚΗΣ Τ.Κ. 190 03",
+"tel": "2299022699",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "eyrokteo-mesogeion-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "332",
+"titlos": "IKTEO AUTOPASS O.E.",
+"eponimia": "AUTOPASS ΙΔΙΩΤΙΚO ΚΕΝΤΡO ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ O.E.",
+"dir": "ΛΕΩΦ. ΑΘΗΝΩΝ 163, Δ. ΠΕΡΙΣΤΕΡΙΟΥ Ν. ΑΤΤΙΚΗΣ 10447",
+"tel": "2103417777",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "dytikoy-tomea-athinon",
+"slug": "ikteo-autopass-o-e"
+},
+{
+"tipo": "ikteo",
+"kod": "335",
+"titlos": "EUROKTEO A.E.",
+"eponimia": "EUROPEANKTEO-ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α. Ε",
+"dir": "ΠΕΙΡΑΙΩΣ 29 - 31 & ΜΟΣΧΟΝΗΣΙΩΝ, Δ. ΜΟΣΧΑΤΟΥ - ΤΑΥΡΟΥ (Δ.Ε. ΜΟΣΧΑΤΟΥ), 18346",
+"tel": "2104833200-202",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "notioy-tomea-athinon",
+"slug": "eurokteo-a-e-notioy-tomea-athinon"
+},
+{
+"tipo": "ikteo",
+"kod": "338",
+"titlos": "Ι.ΚΤΕΟ ΛΕΩΦΟΡΟΣ ΒΟΥΛΙΑΓΜΕΝΗΣ Α.Ε.",
+"eponimia": "Ι.ΚΤΕΟ ΛΕΩΦΟΡΟΣ ΒΟΥΛΙΑΓΜΕΝΗΣ Α.Ε.",
+"dir": "ΤΡΑΧΩΝΩΝ 3, ΘΕΣΗ ΤΡΑΧΩΝΕΣ, ΑΛΙΜΟΣ ΑΤΤΙΚΗΣ, Τ.Κ.14561",
+"tel": "2109966677",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "notioy-tomea-athinon",
+"slug": "i-kteo-leoforos-voyliagmenis-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "357",
+"titlos": "ΗΝΙΟΧΟΣ ΙΚΤΕΟ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΗΝΙΟΧΟΣ Α.Ε.",
+"dir": "14o ΧΛΜ Αθηνών – Λάμίας & Κορνηλίου 0, Τ.Κ. 14564, Κηφισιά",
+"tel": "2111027000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L1e, L2e, L3e, L4e, L5e, L6e, L7e)",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΒΟΡΕΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "voreioy-tomea-athinon",
+"slug": "iniochos-ikteo-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "359",
+"titlos": "EUROKTEO Α.Ε. και KTEOHellas Α.Ε",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "8ο ΧΛΜ ΝΕΑΣ Ε.Ο. ΑΘΗΝΩΝ – ΛΑΜΙΑΣ, ΜΕΤΑΜΟΡΦΩΣΗ ΑΤΤΙΚΗΣ 14452",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΒΟΡΕΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "voreioy-tomea-athinon",
+"slug": "eurokteo-a-e-kai-kteohellas-a-e-voreioy-tomea-athino"
+},
+{
+"tipo": "ikteo",
+"kod": "363",
+"titlos": "ΙΚΤΕΟ ΑΙΓΙΝΑΣ",
+"eponimia": "ΕΥΤΕΧΝΟΣ ΜΗΧΑΝΟΛΟΓΙΚΗ ΙΚΕ",
+"dir": "ΡΑΧΗ ΜΟΣΧΟΝΑ, Δ.Δ. ΑΓΙΩΝ ΑΣΩΜΑΤΩΝ- ΔΗΜΟΣ ΑΙΓΙΝΑΣ",
+"tel": "22970 22125, 22970 24978",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΠΕΙΡΑΙΩΣ & ΝΗΣΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "peiraios-nison",
+"slug": "ikteo-aiginas"
+},
+{
+"tipo": "ikteo",
+"kod": "364",
+"titlos": "AUTOVISION-SAKAR Α.Ε.",
+"eponimia": "AUTOVISION-SAKAR ΙΔΙΩΤΙΚΟΣ ΤΕΧΝΙΚΟΣ ΕΛΕΓΧΟΣ ΟΧΗΜΑΤΩΝ – ΠΙΣΤΟΠΟΙΗΣΕΙΣ Α.Ε.",
+"dir": "ΛΕΩΦ. ΜΑΡΑΘΩΝΟΣ 83, Τ.Κ. 19009, ΠΙΚΕΡΜΙ, ΑΤΤΙΚΗ",
+"tel": "2130188000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "autovision-sakar-a-e-anatolikis-attikis"
+},
+{
+"tipo": "ikteo",
+"kod": "367",
+"titlos": "ΚΤΕΟ AUTOTRUCK",
+"eponimia": "Ι.ΚΤΕΟ ΘΡΙΑΣΙΟΥ ΠΕΔΙΟΥ ΒΑΡΕΩΝ ΚΑΙ ΕΠΙΒΑΤΙΚΩΝ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΤΑΤΟΙΟΥ 54, Τ.Κ. 13677, ΑΧΑΡΝΕΣ",
+"tel": "2108002065, 2106201762",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "kteo-autotruck"
+},
+{
+"tipo": "ikteo",
+"kod": "368",
+"titlos": "EUROKTEO Α.Ε. και KTEOHellas Α.Ε",
+"eponimia": "EUROPEAN KTEO - ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΚΑΣΤΟΡΙΑΣ ΚΑΙ Λ. ΜΑΡΑΘΩΝΟΣ 163, Τ.Κ. 15344, ΠΑΛΛΗΝΗ",
+"tel": "2102444444",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
+"regionSlug": "attikis",
+"enotitaSlug": "anatolikis-attikis",
+"slug": "eurokteo-a-e-kai-kteohellas-a-e-4"
+},
+{
+"tipo": "ikteo",
+"kod": "119",
+"titlos": "Ι.ΚΤΕΟ ΧΙΟΥ",
+"eponimia": "Ι.ΚΤΕΟ Ι. ΓΙΑΚΟΥΜΗΣ - Π. ΕΥΓΕΝΙΚΟΣ Α.Ε.",
+"dir": "ΘΕΣΗ ΔΟΞΑΡΑΣ, ΠΕΡΙΟΧΗ ΓΡΟΥ, ΧΙΟΣ 82100",
+"tel": "2271081919",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΧΙΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "chioy",
+"slug": "i-kteo-chioy"
+},
+{
+"tipo": "ikteo",
+"kod": "267",
+"titlos": "ΙΚΤΕΟ ΛΕΣΒΟΥ Ε.Π.Ε.",
+"eponimia": "ΑΦΟΙ ΤΡΥΠΑΤΖΗ ΕΠΕ",
+"dir": "ΠΑΓΑΝΗ ΜΥΤΙΛΗΝΗΣ 81100",
+"tel": "2251054600 2251054601",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΛΕΣΒΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "lesvoy",
+"slug": "ikteo-lesvoy-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "269",
+"titlos": "ΙΚΤΕΟ ΜΥΤΙΛΗΝΗΣ Α.Ε",
+"eponimia": "ΙΔ.ΚΤΕΟ ΕΥΑΓΓΕΛΟΣ ΑΣΒΕΣΤΑΣ Α.Ε",
+"dir": "ΚΑΡΑ ΤΕΠΕ ΜΥΤΙΛΗΝΗΣ-ΤΚ81100",
+"tel": "2251048700",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΛΕΣΒΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "lesvoy",
+"slug": "ikteo-mytilinis-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "274",
+"titlos": "ΙΚΤΕΟ ΛΗΜΝΟΥ ΟΕ",
+"eponimia": "ΝΙΚΟΛΑΟΣ ΜΟΥΣΤΑΚΑΣ & ΣΙΑ ΟΕ",
+"dir": "ΑΤΣΙΚΗ, ΛΗΜΝΟΣ 81401",
+"tel": "2254031427 2254031735",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΛΗΜΝΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "limnoy",
+"slug": "ikteo-limnoy-oe"
+},
+{
+"tipo": "ikteo",
+"kod": "292",
+"titlos": "ΚΤΕΟ ΣΑΜΟΥ Ε.Π.Ε",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΣΑΜΟΥ Εταιρεία Περιορισμένης Ευθύνης",
+"dir": "ΜΥΤΙΛΗΝΙΟΙ ΣΑΜΟΥ Τ.Κ. 83101",
+"tel": "2273052140",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΣΑΜΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "samoy",
+"slug": "kteo-samoy-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "321",
+"titlos": "─",
+"eponimia": "ΠΑΥΛΗΣ ΙΚΕ",
+"dir": "ΕΠΑΡΧΙΑΚΗ ΟΔΟΣ ΚΑΡΛΟΒΑΣΟΥ - ΑΓ. ΘΕΟΔΩΡΩΝ, ΘΕΣΗ ΓΡΥΜΠΑ ή ΣΟΥΡΡΗΔΕΣ ΚΑΡΛΟΒΑΣΟΥ, ΔΗΜΟΥ ΣΑΜΟΥ",
+"tel": "2273774515",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΣΑΜΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "samoy",
+"slug": "kteo-321"
+},
+{
+"tipo": "ikteo",
+"kod": "330",
+"titlos": "ΚΤΕΟ ΣΑΜΟΥ Ε.Π.Ε",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΣΑΜΟΥ ΕΠΕ",
+"dir": "ΘΕΣΗ ΚΑΜΑΡΙ ή ΚΛΕΙΔΙ, Δ.Δ. ΚΑΡΛΟΒΑΣΟΥ, Δ. ΣΑΜΟΥ 83200",
+"tel": "2273030145",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΣΑΜΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "samoy",
+"slug": "kteo-samoy-e-p-e-samoy"
+},
+{
+"tipo": "ikteo",
+"kod": "115",
+"titlos": "ΙΡΙΚΤΕΟ ΑΕ",
+"eponimia": "ΗΛΙΟΠΟΥΛΟΣ ΠΑΝΑΓΙΩΤΗΣ ΙΚΤΕΟ Α.Ε",
+"dir": "5 ΧΛΜ Ε.Ο ΠΥΡΓΟΥ - ΠΑΤΡΩΝ, ΠΕΡΙΟΧΗ ΑΝΑΔΑΣΜΟΣ ΠΡΑΣΙΝΟΥ, ΠΥΡΓΟΣ ΗΛΕΙΑΣ 27100",
+"tel": "2621036336",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΗΛΕΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "ileias",
+"slug": "irikteo-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "129",
+"titlos": "ΚΤΕΟ ΑΙΓΙΟΥ ΙΚΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΠΕΛΟΠΟΝΝΗΣΟΥ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΡΥΑΚΙΑ ΕΛΙΚΗΣ 25100 ΑΙΓΙΟ",
+"tel": "2691081111",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑ'Ι'ΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "acha-i-as",
+"slug": "kteo-aigioy-ike"
+},
+{
+"tipo": "ikteo",
+"kod": "133",
+"titlos": "Π.Σ.Μ.Α.Ι.Κ.Τ.Ε.Ο.",
+"eponimia": "ΠΑΡΑΓΩΓΙΚΟΣ ΣΥΝ/ΣΜΟΣ ΜΗΧΑΝΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΙΔΙΩΤΙΚΟΥ ΚΕΝΤΡΟΥ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΙΚΤΕΟ ΝΟΜΟΥ ΑΧΑ'Ι'ΑΣ ΣΥΝ. ΠΕ.",
+"dir": "ΕΜΠΕΔΟΚΛΕΟΥΣ ΠΕΡΙΒΟΛΑ, 26335 ΠΑΤΡΑ",
+"tel": "2610643434",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑ'Ι'ΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "acha-i-as",
+"slug": "p-s-m-a-i-k-t-e-o"
+},
+{
+"tipo": "ikteo",
+"kod": "148",
+"titlos": "ΙΟΝΙΚΗ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΤΕΟ ΗΛΕΙΑΣ ΙΟΝΙΚΗ ΑΕ",
+"dir": "ΣΥΝΤΡΙΑΔΑ ΠΥΡΓΟΥ 27100 ΠΥΡΓΟΣ",
+"tel": "2621020970",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΗΛΕΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "ileias",
+"slug": "ioniki-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "159",
+"titlos": "ΠΑΝΟΣ ΚΟΥΛΟΥΓΛΙΩΤΗΣ",
+"eponimia": "ΠΑΝΑΓΙΩΤΗΣ ΚΟΥΛΟΥΓΛΙΩΤΗΣ ΚΑΙ ΣΙΑ Ο.Ε.",
+"dir": "4 ΧΛΜ ΑΜΑΛΙΑΔΑΣ - ΣΑΒΑΛΙΩΝ 27200",
+"tel": "2622061001 2622061705",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΗΛΕΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "ileias",
+"slug": "panos-koyloygliotis"
+},
+{
+"tipo": "ikteo",
+"kod": "189",
+"titlos": "Ι.ΚΤΕΟ ΛΕΥΚΑΔΑΣ-ΒΟΝΙΤΣΑΣ",
+"eponimia": "ΒΑΣΙΛΕΙΟΣ ΜΕΛΑΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΑΓ. ΝΙΚΟΛΑΟΣ ΔΗΜΟΥ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ (7,5 ΧΛΜ Ε.Ο ΒΟΝΙΤΣΑΣ - ΛΕΥΚΑΔΑΣ) 30002",
+"tel": "2643081011",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "aitoloakarnanias",
+"slug": "i-kteo-leykadas-vonitsas"
+},
+{
+"tipo": "ikteo",
+"kod": "210",
+"titlos": "AUTOVISION ΑΓΡΙΝΙΟΥ Ι.ΚΤΕΟ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΓΡΙΝΙΟΥΑ.Ε.",
+"dir": "6ο ΧΛΜ. Ε.Ο. ΑΓΡΙΝΙΟΥ - ΜΕΣΟΛΟΓΓΙΟΥ, ΑΓΡΙΝΙΟ 30003",
+"tel": "2641051097",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "aitoloakarnanias",
+"slug": "autovision-agrinioy-i-kteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "214",
+"titlos": "KTEO ΑΓΡΙΝΙΟΥ Α.Ε.",
+"eponimia": "KTEO ΑΓΡΙΝΙΟΥ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΚΟΜΒΟΣ ΕΘΝΙΚΟΥ ΣΤΑΔΙΟΥ (ΒΟΙΔΟΛΕΙΒΑΔΟ) ΑΓΡΙΝΙΟ 30100",
+"tel": "2641039021",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "aitoloakarnanias",
+"slug": "kteo-agrinioy-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "258",
+"titlos": "ΙΟΝΙΚΗ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΤΕΟ ΗΛΕΙΑΣ ΙΟΝΙΚΗ ΑΕ",
+"dir": "KΑΒΑΣΙΛΑ ΗΛΕΙΑΣ 27300 ΚΑΒΑΣΙΛΑ",
+"tel": "2623032212",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΗΛΕΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "ileias",
+"slug": "ioniki-ae-ileias"
+},
+{
+"tipo": "ikteo",
+"kod": "276",
+"titlos": "Ι.ΚΤΕΟ Ν. ΗΛΕΙΑΣ ΚΑΡΑΠΑΝΟΣ ΑΘΑΝΑΣΙΟΣ",
+"eponimia": "Ι.ΚΤΕΟ Ν. ΗΛΕΙΑΣ ΚΑΡΑΠΑΝΟΣ ΑΘΑΝΑΣΙΟΣ",
+"dir": "ΔΙΑΣΤΑΥΡΩΣΗ Ν.Ε.Ο. ΠΑΤΡΩΝ - ΠΥΡΓΟΥ ΜΕ Ε.Ο. ΑΕΡΟΔΡΟΜΙΟΥ ΚΥΛΛΗΝΗΣ (ΠΕΡΙΟΧΗ ΑΓΓΙΝΑΡΟΥΛΑ) ΑΝΔΡΑΒΙΔΑ 27051",
+"tel": "2623054071 6932589812",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΗΛΕΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "ileias",
+"slug": "i-kteo-n-ileias-karapanos-athanasios"
+},
+{
+"tipo": "ikteo",
+"kod": "286",
+"titlos": "ΖΩΗΣ ΑΘΑΝΑΣΟΠΟΥΛΟΣ IKTEO N. AXAΪAΣ",
+"eponimia": "ΑΘΑΝΑΣΟΠΟΥΛΟΣ ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α.Ε.",
+"dir": "ΒΕΛΕΣΤΙΝΟΥ 52-54 ΒΙΟΠΑ ΓΛΑΥΚΟΥ 26500, ΠΑΤΡΑ",
+"tel": "2610525700",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑ'Ι'ΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "acha-i-as",
+"slug": "zois-athanasopoylos-ikteo-n-axaias"
+},
+{
+"tipo": "ikteo",
+"kod": "289",
+"titlos": "GPS QUALITY SERVICES AE",
+"eponimia": "GPS AE Υπηρεσίες Τεχνικού Ελέγχου Οχημάτων Εκμετάλλευση ΙΚΤΕΟ - Κατασκευή Κτιρίων Παντός Τύπου",
+"dir": "ΟΔΟΣ ΒΙΠΕ & ΛΑΠΑΘΙΩΤΗ 8 - ΘΕΡΙΑΝΟ ΠΑΤΡΩΝ, 25002",
+"tel": "2610671000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑ'Ι'ΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "acha-i-as",
+"slug": "gps-quality-services-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "295",
+"titlos": "ΙΚΤΕΟ ΝΑΥΠΑΚΤΟΥ",
+"eponimia": "ΙΚΤΕΟ ΝΑΥΠΑΚΤΟΥ ΑΦΟΙ ΣΤΑΜΟΥΤΣΟΥ ΟΕ",
+"dir": "Κ.ΔΑΦΝΗ ΝΑΥΠΑΚΤΟΥ 30300",
+"tel": "2634020111",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "aitoloakarnanias",
+"slug": "ikteo-naypaktoy"
+},
+{
+"tipo": "ikteo",
+"kod": "347",
+"titlos": "Π.Σ.Μ.Α. Ι. ΚΤΕΟ",
+"eponimia": "Παραγωγικός Συνεταιρισμός Μηχανικών Αυτοκινήτων Ιδιωτικού Κέντρου Τεχνικού Ελέγχου Οχημάτων Ι.ΚΤΕΟ Νομού Αχαΐας ΣΥΝ.Π.Ε.",
+"dir": "Βελεστίνου & Θηρέως , ΒΙΟΠΑ ΓΛΑΥΚΟΥ, Τ.Κ. 26500, Πάτρα",
+"tel": "2610523500, 2610528080",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑ'Ι'ΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "acha-i-as",
+"slug": "p-s-m-a-i-kteo"
+},
+{
+"tipo": "ikteo",
+"kod": "361",
+"titlos": "ΕΛΕΓΚΤΕΟΝ",
+"eponimia": "ΚΤΕΟ ΜΕΣΟΛΟΓΓΙΟΥ ΑΕ",
+"dir": "ΑΒΔΑΛΑ 0, ΝΕΑ ΥΔΡΑΓΩΓΕΙΑ ΜΕΣΟΛΟΓΓΙΟΥ",
+"tel": "2631023223",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "aitoloakarnanias",
+"slug": "elegkteon"
+},
+{
+"tipo": "ikteo",
+"kod": "372",
+"titlos": "Ι.ΚΤΕΟ ΝΑΚΑΣ ΙΚΕ",
+"eponimia": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΝΑΚΑΣ Ι.Κ.Ε.",
+"dir": "2ο Χλμ. Εθνικής Οδού Βόνιτσας - Λευκάδας, Θέση Ντούσκα, Τ.Κ. 30002, Δήμος Ακτίου Βόνιτσας",
+"tel": "2643022700",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "aitoloakarnanias",
+"slug": "i-kteo-nakas-ike"
+},
+{
+"tipo": "ikteo",
+"kod": "369",
+"titlos": "─",
+"eponimia": "ΚΑΡΑΠΑΝΟΣ ΑΘΑΝΑΣΙΟΣ",
+"dir": "ΔΙΑΣΤΑΥΡΩΣΗ Ν.Ε.Ο. ΠΑΤΡΩΝ - ΠΥΡΓΟΥ ΜΕ Ε.Ο. ΑΕΡΟΔΡΟΜΙΟΥ ΚΥΛΛΗΝΗΣ (ΑΓ. ΙΩΑΝΝΗΣ ΤΜΧ 248 ), Τ.Κ. 27051, ΑΝΔΡΑΒΙΔΑ",
+"tel": "2623054071, 2623181023",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΗΛΕΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "ileias",
+"slug": "kteo-369"
+},
+{
+"tipo": "ikteo",
+"kod": "374",
+"titlos": "─",
+"eponimia": "ΚΤΕΟ ΜΑΡΓΑΡΩΝΗΣ Α.Ε.",
+"dir": "Ευβοίας 255, Τ.Κ. 26332, Ζαρουχλέικα, Πάτρα Αχαΐας",
+"tel": "2610330000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑ'Ι'ΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "acha-i-as",
+"slug": "kteo-374"
+},
+{
+"tipo": "ikteo",
+"kod": "377",
+"titlos": "ΚΕΝΤΡΙΚΟ ΙΚΤΕΟ ΠΑΤΡΑΣ ΝΤΑΒΛΟΥΡΟΣ ΓΕΩΡΓΙΟΣ",
+"eponimia": "Ι. ΚΤΕΟ ΠΑΤΡΑΣ ΝΤΑΒΛΟΥΡΟΣ ΓΕΩΡΓΙΟΣ ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Βασ. Σταυροπούλου 63-65, Τ.Κ. 26504, Αγ. Γεώργιος, Ρίο, Πάτρα",
+"tel": "2610706070",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑ'Ι'ΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "acha-i-as",
+"slug": "kentriko-ikteo-patras-ntavloyros-georgios"
+},
+{
+"tipo": "ikteo",
+"kod": "378",
+"titlos": "ΕΛΕΓΚΤΕΟΝ",
+"eponimia": "ΚΤΕΟ ΜΕΣΟΛΟΓΓΙΟΥ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "1ο Τμήμα Τουπακιάς της Π.Ε.Ο. Αγρινίου - Μεσολογγίου, Τ.Κ. 30100, Αγρίνιο",
+"tel": "2641039000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "aitoloakarnanias",
+"slug": "elegkteon-aitoloakarnanias"
+},
+{
+"tipo": "ikteo",
+"kod": "104",
+"titlos": "ΙΚΤΕΟ ΠΤΟΛΕΜΑΪΔΑΣ",
+"eponimia": "Ε. ΣΤΕΦΑΝΙΔΗΣ - Π. ΚΟΛΚΑΣ ΙΚΤΕΟ ΕΠΕ",
+"dir": "1ο ΧΛΜ. ΠΤΟΛΕΜΑΪΔΑΣ - ΦΛΩΡΙΝΑΣ, 50200 ΠΤΟΛΕΜΑΪΔΑ",
+"tel": "2463055720",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΚΟΖΑΝΗΣ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "kozanis",
+"slug": "ikteo-ptolemaidas"
+},
+{
+"tipo": "ikteo",
+"kod": "110",
+"titlos": "EXPRESS ΚΤΕΟ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΤΕΟ ΚΟΖΑΝΗΣ ΕΠΕ",
+"dir": "5ο ΧΛΜ ΚΟΖΑΝΗΣ - ΠΤΟΛ/ΔΑΣ 50100 ΚΟΖΑΝΗ",
+"tel": "2461045880",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΚΟΖΑΝΗΣ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "kozanis",
+"slug": "express-kteo"
+},
+{
+"tipo": "ikteo",
+"kod": "216",
+"titlos": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΚΑΣΤΟΡΙΑΣ Ι.Κ.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΚΑΣΤΟΡΙΑΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΜΗΛΙΤΣΑ ΚΑΣΤΟΡΙΑΣ TK 52057",
+"tel": "2467073181",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΚΑΣΤΟΡΙΑΣ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "kastorias",
+"slug": "idiotiko-kteo-kastorias-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "227",
+"titlos": "ΙΚΤΕΟ ΕΛΚΑΣ Γ. ΗΛΙΑΣ",
+"eponimia": "ΙΚΤΕΟ ΕΛΚΑΣ Γ. ΗΛΙΑΣ",
+"dir": "1 ΧΛΜ ΦΛΩΡΙΝΑΣ - ΠΡΩΤΗΣ, 53100 ΦΛΩΡΙΝΑ",
+"tel": "2385022216",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΦΛΩΡΙΝΑΣ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "florinas",
+"slug": "ikteo-elkas-g-ilias"
+},
+{
+"tipo": "ikteo",
+"kod": "277",
+"titlos": "AUTOΔΙΑΓΝΩΣΗ",
+"eponimia": "IKTEO ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ ΕΠΕ",
+"dir": "ΜΕΛΙΣΣΙΑ-ΚΟΙΛΑ ΚΟΖΑΝΗΣ, 50100 ΚΟΖΑΝΗ",
+"tel": "2461075000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΚΟΖΑΝΗΣ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "kozanis",
+"slug": "autodiagnosi"
+},
+{
+"tipo": "ikteo",
+"kod": "284",
+"titlos": "IKTEO ΓΟΥΛΙΟΣ ΕΥΑΓΓΕΛΟΣ & ΥΙΟΣ Ο.Ε",
+"eponimia": "IKTEO ΓΟΥΛΙΟΣ ΕΥΑΓΓΕΛΟΣ & ΥΙΟΣ Ο.Ε",
+"dir": "2ο ΧΛΜ ΦΛΩΡΙΝΑΣ-ΘΕΣΣΑΛΟΝΙΚΗΣ, 53100 ΦΛΩΡΙΝΑ",
+"tel": "2385045770",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΦΛΩΡΙΝΑΣ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "florinas",
+"slug": "ikteo-goylios-eyaggelos-yios-o-e"
+},
+{
+"tipo": "ikteo",
+"kod": "327",
+"titlos": "Ι.Κ.Τ.Ε.Ο. ΓΡΕΒΕΝΩΝ",
+"eponimia": "ΚΑΡΑΓΙΑΝΝΗΣ & ΣΙΑ Ε.Ε.",
+"dir": "5ο ΧΛΜ ΓΡΕΒΕΝΩΝ - ΜΕΡΣΙΝΑΣ, ΘΕΣΗ \"ΣΚΑΜΝΙΕΣ\" - ΤΜΧ. 317 ΑΓΡΟΚΤΗΜΑΤΟΣ ΜΕΡΣΙΝΑΣ, ΓΡΕΒΕΝΑ, 51100",
+"tel": "2462029200",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΓΡΕΒΕΝΩΝ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "grevenon",
+"slug": "i-k-t-e-o-grevenon"
+},
+{
+"tipo": "ikteo",
+"kod": "360",
+"titlos": "YOURS KTEO ΚΑΣΤΟΡΙΑΣ",
+"eponimia": "YOURS KTEO ΚΑΣΤΟΡΙΑΣ Ι.Κ.Ε.",
+"dir": "ΘΕΣΗ ΠΑΠΑΣΤΕΦΟ, ΔΙΣΠΗΛΙΟ, Τ.Κ. 52057,ΤΑΧ.ΘΥΡ. 77, ΚΑΣΤΟΡΙΑ",
+"tel": "2467085700",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",
+"enotita": "ΚΑΣΤΟΡΙΑΣ",
+"regionSlug": "dytiki-makedonia",
+"enotitaSlug": "kastorias",
+"slug": "yours-kteo-kastorias"
+},
+{
+"tipo": "ikteo",
+"kod": "117",
+"titlos": "ΙΚΤΕΟ ΙΩΑΝΝΙΝΩΝ Α.Ε",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΙΩΑΝΝΙΝΩΝ Α.Ε",
+"dir": "ΠΕΔΙΝΗ ΔΗΜΟΥ ΜΠΙΖΑΝΙΟΥ Τ.Θ. 813, 45500 ΙΩΑΝΝΙΝΑ",
+"tel": "2651094900",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΙΩΑΝΝΙΝΩΝ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "ioanninon",
+"slug": "ikteo-ioanninon-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "135",
+"titlos": "ΙΚΤΕΟ Δ.ΕΛΛΑΔΑΣ Α.Ε",
+"eponimia": "ΙΚΤΕΟ ΔYTIKHΣ ΕΛΛΑΔΑΣ Α.Ε",
+"dir": "3ο ΧΛΜ Ε.Ο. ΗΓΟΥΜΕΝΙΤΣΑΣ - ΙΩΑΝΝΙΝΩΝ, ΜΑΥΡΟΥΔΙ, 46100 ΗΓΟΥΜΕΝΙΤΣΑ",
+"tel": "2665041241 2665041251",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΘΕΣΠΡΩΤΙΑΣ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "thesprotias",
+"slug": "ikteo-d-elladas-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "154",
+"titlos": "ΙΚΤΕΟ ΔΥΤ. ΕΛΛΑΔΑΣ Α.Ε",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΔΥΤ. ΕΛΛΑΔΑΣ Α.Ε",
+"dir": "ΒΙΠΕ ΠΡΕΒΕΖΑΣ- 48100",
+"tel": "2682041677",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΠΡΕΒΕΖΑΣ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "prevezas",
+"slug": "ikteo-dyt-elladas-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "160",
+"titlos": "AUTOTEST",
+"eponimia": "Ι Β ΣΓΟΥΡΟΣ ΚΑΙ ΣΙΑ ΟΕ",
+"dir": "ΒΟΥΝΟΠΛΑΓΙΑ ΙΩΑΝΝΙΝΩΝ 45500",
+"tel": "2651060560",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΙΩΑΝΝΙΝΩΝ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "ioanninon",
+"slug": "autotest"
+},
+{
+"tipo": "ikteo",
+"kod": "278",
+"titlos": "ΙΚΤΕΟ ΑΡΤΑΣ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΗΠΕΙΡΟΥ Α.Ε.",
+"dir": "2o ΧΛΜ ΑΡΤΑΣ - ΙΩΑΝΝΙΝΩΝ ΝΕΕΣ ΕΡΓΑΤΙΚΕΣ ΚΑΤΟΙΚΙΕΣ ΘΕΣΗ ΣΟΥΛΙΩΤΙΚΑ ΠΕΡΙΟΧΗ ΤΟΠ ΑΛΤΙ, ΤΚ 47100, ΑΡΤΑ",
+"tel": "2681027200 6945172400",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΑΡΤΑΣ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "artas",
+"slug": "ikteo-artas-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "300",
+"titlos": "ΙΚΤΕΟ ΠΑΠΑΔΟΠΟΥΛΟΣ",
+"eponimia": "Μ.ΠΑΠΑΔΟΠΟΥΛΟΥ ΚΑΙ ΣΙΑ Ο.Ε",
+"dir": "ΠΕΡΙΦΑΡΕΙΑΚΗ ΟΔΟΣ ΚΑΤΩ ΝΕΟΧΩΡΟΠΟΥΛΟ, ΤΚ 45500 ΙΩΑΝΝΙΝΑ",
+"tel": "2651041400",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΙΩΑΝΝΙΝΩΝ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "ioanninon",
+"slug": "ikteo-papadopoylos"
+},
+{
+"tipo": "ikteo",
+"kod": "312",
+"titlos": "AUTO ARTA",
+"eponimia": "ΦΩΤΗΣ ΛΑΪΝΑΣ & ΣΙΑ Ε..Ε",
+"dir": "3ο ΧΛΜ ΑΡΤΑΣ ΙΩΑΝΝΙΝΩΝ ΤΚ.47100",
+"tel": "2681021501",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΑΡΤΑΣ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "artas",
+"slug": "auto-arta"
+},
+{
+"tipo": "ikteo",
+"kod": "341",
+"titlos": "ΙΚΤΕΟ ΑΡΤΑΣ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΗΠΕΙΡΟΥ Α.Ε.",
+"dir": "ΚΤΗΜ. ΠΕΡΙΦΕΡΕΙΑ Τ. Κ. ΝΕΟΧΩΡΟΠΟΥΛΟΥ - ΔΗΜΟΣ ΙΩΑΝΝΙΤΩΝ, ΤΚ 45500",
+"tel": "2651027200",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΙΩΑΝΝΙΝΩΝ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "ioanninon",
+"slug": "ikteo-artas-a-e-ioanninon"
+},
+{
+"tipo": "ikteo",
+"kod": "353",
+"titlos": "ΙΚΤΕΟ ΠΡΕΒΕΖΑΣ",
+"eponimia": "ΣΠΥΡΙΔΩΝ ΖΗΚΙΔΗΣ - ΝΙΚΟΛΑΟΣ ΒΑΓΙΑΣ Ο.Ε.",
+"dir": "ΒΙ. ΠΕ. ΠΡΕΒΕΖΑΣ, Τ.Κ. 48100, ΠΡΕΒΕΖΑ",
+"tel": "2682041000",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΠΡΕΒΕΖΑΣ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "prevezas",
+"slug": "ikteo-prevezas"
+},
+{
+"tipo": "ikteo",
+"kod": "356",
+"titlos": "ΙΚΤΕΟ ΠΑΠΑΔΟΠΟΥΛΟΣ",
+"eponimia": "Μ. ΠΑΠΑΔΟΠΟΥΛΟΥ & ΣΙΑ ΟΕ",
+"dir": "ΠΑΛΑΙΟΧΑΝΟ ΠΕΔΙΝΗΣ, 6ο ΧΛΜ ΙΩΑΝΝΙΝΩΝ - ΑΘΗΝΩΝ, Τ.Κ. 45500, ΙΩΑΝΝΙΝΑ",
+"tel": "2651092999",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΗΠΕΙΡΟΥ",
+"enotita": "ΙΩΑΝΝΙΝΩΝ",
+"regionSlug": "ipeiroy",
+"enotitaSlug": "ioanninon",
+"slug": "ikteo-papadopoylos-ioanninon"
+},
+{
+"tipo": "ikteo",
+"kod": "113",
+"titlos": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΤΡΙΚΑΛΩΝ",
+"eponimia": "ΙΚΤΕΟ ΠΑΤΣΙΑΣ ΝΙΚΟΛΑΟΣ. & ΣΙΑ Ο.Ε.",
+"dir": "6,5ο ΧΛΜ ΤΡΙΚΑΛΩΝ - ΙΩΑΝΝΙΝΩΝ 42100",
+"tel": "2431088590-1",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΤΡΙΚΑΛΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "trikalon",
+"slug": "idiotiko-kteo-trikalon"
+},
+{
+"tipo": "ikteo",
+"kod": "128",
+"titlos": "ΠΑΠΑΣΤΕΡΓΙΟΥ Ι.ΚΤΕΟ Ο.Ε.",
+"eponimia": "Χ.ΠΑΠΑΣΤΕΡΓΙΟΥ & ΣΙΑ Ο.Ε.",
+"dir": "8ο ΧΛΜ ΛΑΡΙΣΑΣ - ΚΟΖΑΝΗΣ, ΤΥΡΝΑΒΟΣ ΛΑΡΙΣΑ 41500",
+"tel": "2410831550",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "papastergioy-i-kteo-o-e"
+},
+{
+"tipo": "ikteo",
+"kod": "137",
+"titlos": "ΣΩΤ. ΣΙΩΚΗΣ Ι.ΚΤΕΟ",
+"eponimia": "ΣΙΩΚΗ ΚΥΒΕΛΗ & ΣΙΑ Ε.Ε.",
+"dir": "6ο ΧΛΜ ΤΡΙΚΑΛΩΝ- ΚΑΛΑΜΠΑΚΑΣ 42100",
+"tel": "2431088580",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΤΡΙΚΑΛΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "trikalon",
+"slug": "sot-siokis-i-kteo"
+},
+{
+"tipo": "ikteo",
+"kod": "138",
+"titlos": "ΙΚΤΕΟ ΤΡΙΚΑΛΩΝ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΤΡΙΚΑΛΩΝ ΑΝΩΝΥΝΗ ΕΤΑΙΡΕΙΑ",
+"dir": "6 ΧΛΜ ΤΡΙΚΑΛΩΝ - ΚΑΛΑΜΠΑΚΑΣ Τ.Θ. 34768 42100 ΤΡΙΚΑΛΑ",
+"tel": "2431088077",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΤΡΙΚΑΛΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "trikalon",
+"slug": "ikteo-trikalon-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "143",
+"titlos": "Ι.ΚΤΕΟ ΝΕΑΣ ΑΓΧΙΑΛΟΥ Ι.Κ.Ε.",
+"eponimia": "Ι.ΚΤΕΟ ΝΕΑΣ ΑΓΧΙΑΛΟΥ Ι.Κ.Ε.",
+"dir": "22ο ΧΛΜ ΠΕΟ ΒΟΛΟΥ - ΜΙΚΡΟΘΗΒΩΝ 37400 Ν.ΑΓΧΙΑΛΟΣ",
+"tel": "2428078222",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΜΑΓΝΗΣΙΑΣ & ΣΠΟΡΑΔΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "magnisias-sporadon",
+"slug": "i-kteo-neas-agchialoy-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "147",
+"titlos": "ΣΟΦΙΑ ΜΙΓΑ",
+"eponimia": "ΣΟΦΙΑ ΜΙΓΑ ΚΑΙ ΣΙΑ Ε.Ε.",
+"dir": "2o ΧΛΜ ΓΙΑΝΝΟΥΛΗΣ – ΦΑΛΑΝΗΣ, 41500 ΤΥΡΝΑΒΟΣ ΛΑΡΙΣΑΣ",
+"tel": "2410 591700",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "sofia-miga"
+},
+{
+"tipo": "ikteo",
+"kod": "151",
+"titlos": "ΙΚΤΕΟ ΚΑΡΔΙΤΣΑΣ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΚΑΡΔΙΤΣΑΣ ΑΕ",
+"dir": "ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 144, 43100 ΚΑΡΔΙΤΣΑ",
+"tel": "2441080008",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e, L4e, L5e, L7e)",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΚΑΡΔΙΤΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "karditsas",
+"slug": "ikteo-karditsas-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "153",
+"titlos": "CAR ΙΚΤΕΟ ΘΕΣΣΑΛΙΑΣ",
+"eponimia": "ΙΚΤΕΟ ΑΚΙΝΗΤΑ ΘΕΣΣΑΛΙΑΣ ΕΠΕ",
+"dir": "5ο ΧΛΜ ΠΕΟ ΛΑΡΙΣΑΣ-ΒΟΛΟΥ,41500 ΛΑΡΙΣΑ",
+"tel": "2410572277",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "car-ikteo-thessalias"
+},
+{
+"tipo": "ikteo",
+"kod": "183",
+"titlos": "Σ.Π.Μ.Α.Ι.Κ.Τ.Ε.Ο.",
+"eponimia": "ΠΑΡΑΓΩΓΙΚΟΣ ΣΥΝΕΤΑΙΡΙΣΜΟΣ ΜΗΧΑΝΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΙΔΙΩΤΙΚΟΥ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ (Ι.ΚΤΕΟ) ΝΟΜΟΥ ΛΑΡΙΣΑΣ-ΣΥΝΕΤΑΙΡΙΣΜΟΣ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "7ΧΙΛ.ΛΑΡΙΣΑΣ-ΘΕΣ/ΝΙΚΗ, ΠΕΡΙΟΧΗ ΚΟΥΛΟΥΡΙΟΥ, 41500 ΛΑΡΙΣΑ",
+"tel": "2410575110",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "s-p-m-a-i-k-t-e-o"
+},
+{
+"tipo": "ikteo",
+"kod": "186",
+"titlos": "ΙΚΤΕΟ AUTOVISION ΚΑΡΔΙΤΣΑΣ",
+"eponimia": "ΑΘΑΝΑΣΙΟΣ ΜΟΥΧΤΗΣ & ΣΙΑ Ε.Ε",
+"dir": "2 ΧΛΜ ΚΑΡΔΙΤΣΑΣ - ΑΘΗΝΩΝ, 43100",
+"tel": "2441022228",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΚΑΡΔΙΤΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "karditsas",
+"slug": "ikteo-autovision-karditsas"
+},
+{
+"tipo": "ikteo",
+"kod": "197",
+"titlos": "Σ.Π.Ε.Α.Μ. ΙΚΤΕΟ ΒΟΛΟΥ",
+"eponimia": "ΠΑΡΑΓΩΓΙΚΟΣ ΣΥΝ/ΣΜΟΣ ΕΠΙΣΚΕΥΑΣΤΩΝ ΑΥΤ/ΤΩΝ - ΜΟΤ/ΤΩΝ ΙΚΤΕΟ ΒΟΛΟΥ - ΣΥΝ. ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "Α ΒΙΠΕ ΒΟΛΟΥ,ΤΘ129, 38500 ΒΟΛΟΣ",
+"tel": "2421096720 2421009000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΜΑΓΝΗΣΙΑΣ & ΣΠΟΡΑΔΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "magnisias-sporadon",
+"slug": "s-p-e-a-m-ikteo-voloy"
+},
+{
+"tipo": "ikteo",
+"kod": "240",
+"titlos": "ΙΚΤΕΟ ΧΑΛΚΙΑΣ ΕΠΕ",
+"eponimia": "ΙΚΤΕΟ ΧΑΛΚΙΑΣ ΕΠΕ",
+"dir": "1ΧΛΜΕ.Ο.ΦΑΡΣΑΛΩΝ -ΛΑΜΙΑΣ 40300",
+"tel": "2491028222",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "ikteo-chalkias-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "247",
+"titlos": "ΙΚΤΕΟ ΛΑΡΙΣΑΣ",
+"eponimia": "ΑΘ. ΣΑΝΙΔΑΣ & ΣΙΑ Ο.Ε.",
+"dir": "9ο ΧΛΜ ΠΕΟ ΛΑΡΙΣΑΣ - ΑΘΗΝΑΣ, 41500 ΛΑΡΙΣΑ",
+"tel": "2410671700-1",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "ikteo-larisas"
+},
+{
+"tipo": "ikteo",
+"kod": "261",
+"titlos": "Ι ΚΤΕΟ ΒΟΛΟΥ Ι.Κ.Ε.",
+"eponimia": "Ι ΚΤΕΟ ΒΟΛΟΥ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΙΑ",
+"dir": "4ο ΧΛΜ. Ε.Ο. ΒΟΛΟΥ-ΛΑΡΙΣΑΣ, ΒΟΛΟΣ 38500",
+"tel": "2421061111",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΜΑΓΝΗΣΙΑΣ & ΣΠΟΡΑΔΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "magnisias-sporadon",
+"slug": "i-kteo-voloy-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "268",
+"titlos": "CAR IKTEO ΘΕΣΣΑΛΙΑΣ",
+"eponimia": "ΑΚΙΝΗΤΑ ΘΕΣΣΑΛΙΑΣ Ε.Π.Ε.",
+"dir": "ΛΑΡΙΣΗΣ 243 ΘΕΣΗ ΚΟΥΜΕΣ 38334, ΒΟΛΟΣ",
+"tel": "2421033333",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΜΑΓΝΗΣΙΑΣ & ΣΠΟΡΑΔΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "magnisias-sporadon",
+"slug": "car-ikteo-thessalias-magnisias-sporadon"
+},
+{
+"tipo": "ikteo",
+"kod": "314",
+"titlos": "IKTEO POLIS",
+"eponimia": "Ε. ΓΡΟΥΣΟΠΟΥΛΟΣ - Α. ΓΡΟΥΣΟΠΟΥΛΟΥ Ο.Ε.",
+"dir": "ΣΩΚΡΑΤΟΥΣ, ΣΟΛΩΝΟΣ & Λ. ΚΩΝ/ΝΟΥ ΚΑΡΑΜΑΝΛΗ, ΛΑΡΙΣΑ",
+"tel": "2410555887",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "ikteo-polis"
+},
+{
+"tipo": "ikteo",
+"kod": "323",
+"titlos": "CAR IKTEO ΘΕΣΣΑΛΙΑΣ",
+"eponimia": "ΑΚΙΝΗΤΑ ΘΕΣΣΑΛΙΑΣ Ε.Π.Ε.",
+"dir": "3o ΧΛΜ ΠΕΟ ΕΛΑΣΣΟΝΑΣ - ΛΑΡΙΣΑΣ, ΕΛΑΣΣΟΝΑ",
+"tel": "2493023444-23",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "car-ikteo-thessalias-larisas"
+},
+{
+"tipo": "ikteo",
+"kod": "324",
+"titlos": "IKTEO ΣΠΟΡΑΔΩΝ",
+"eponimia": "ΣΙΩΚΗ ΚΥΒΕΛΗ & ΣΙΑ Ε.Ε.",
+"dir": "ΘΕΣΗ \"ΚOΒΟΥΛΙ ΣΚΙΑΘΟΥ\" ΣΚΙΑΘΟΣ 37002",
+"tel": "2427024200 2427024222",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L4e, L5e, L7e)",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΜΑΓΝΗΣΙΑΣ & ΣΠΟΡΑΔΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "magnisias-sporadon",
+"slug": "ikteo-sporadon"
+},
+{
+"tipo": "ikteo",
+"kod": "329",
+"titlos": "Ι. ΚΤΕΟ ΚΟΥΤΣΟΝΑΣΙΟΣ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΚΟΥΤΣΟΝΑΣΙΟΣ - ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "2ο ΧΛΜ. ΤΡΙΚΑΛΩΝ - ΛΑΡΙΣΗΣ, Δ.Ε. ΤΡΙΚΑΛΩΝ, Δ. ΤΡΙΚΚΑΙΩΝ, Π. ΘΕΣΣΑΛΙΑΣ 42100",
+"tel": "2431063800",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΤΡΙΚΑΛΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "trikalon",
+"slug": "i-kteo-koytsonasios"
+},
+{
+"tipo": "ikteo",
+"kod": "343",
+"titlos": "ΙΚΤΕΟ ΕΛΑΣΣΟΝΑΣ",
+"eponimia": "ΜΑΛΑΜΗ ΣΤΑΥΡΟΥΛΑ – ΕΞΑΡΧΟΣ ΔΗΜΗΤΡΙΟΣ ΚΑΙ ΣΙΑ Ο.Ε.",
+"dir": "3ο ΧΛΜ Π.Ε.Ο. ΕΛΑΣΟΝΑΣ - ΛΑΡΙΣΑΣ, ΤΚ 40200",
+"tel": "2493025700",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "ikteo-elassonas"
+},
+{
+"tipo": "ikteo",
+"kod": "350",
+"titlos": "ΒΗΤΑΣ Α.Ε.",
+"eponimia": "ΒΗΤΑΣ ΒΙΟΜΗΧΑΝΙΑ ΚΑΤΑΣΚΕΥΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΜΕΡΩΝ ΚΑΙ ΕΞΑΡΤΗΜΑΤΩΝ ΕΙΔΩΝ ΕΞΟΠΛΙΣΜΟΥ ΜΕΤΑΦΟΡΩΝ-ΜΗΧΑΝΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΠΕΡ. ΟΔΟΣ ΛΑΡΙΣΑΣ ΚΑΡΔΙΤΣΑΣ - ΤΡΙΚΑΛΑ",
+"tel": "2431022833",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΤΡΙΚΑΛΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "trikalon",
+"slug": "vitas-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "362",
+"titlos": "Ι.Κ. ΑΒΡΑΜΟΠΟΥΛΟΣ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΑΒΡΑΜΟΠΟΥΛΟΣ Α.Ε.",
+"dir": "ΔΙΑΒΑ ΚΑΛΑΜΠΑΚΑΣ, Τ.Κ. 42200, ΚΑΛΑΜΠΑΚΑ",
+"tel": "2432024200",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΤΡΙΚΑΛΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "trikalon",
+"slug": "i-k-avramopoylos-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "375",
+"titlos": "IKTEO POLIS",
+"eponimia": "GR GROUP ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "5ο χλμ. Λάρισας - Καρδίτσας, Θέση Λατίνια, Τ.Κ. 41335, Λάρισα",
+"tel": "2410627686",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "ikteo-polis-larisas"
+},
+{
+"tipo": "ikteo",
+"kod": "155",
+"titlos": "ΙΔΙΩΤΙΚΑ ΚΤΕΟ ΚΕΡΚΥΡΑΣ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΚΕΡΚΥΡΑΣ ΑΕ",
+"dir": "ΠΕΡΙΟΧΗ ΑΕΡΟΔΡΟΜΙΟΥ 49100 ΚΕΡΚΥΡΑ",
+"tel": "2661026610",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+"enotita": "ΚΕΡΚΥΡΑΣ",
+"regionSlug": "ionion-nison",
+"enotitaSlug": "kerkyras",
+"slug": "idiotika-kteo-kerkyras-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "237",
+"titlos": "ΤΣΟΥΚΑΛΑΣ Ι.ΚΤΕΟ Ε.Π.Ε.",
+"eponimia": "ΤΣΟΥΚΑΛΑΣ ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΚΑΙ ΔΙΚΥΚΛΩΝ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "ΘΕΣΗ ΒΑΛΤΑ ΑΓ.ΚΗΡΥΚΑΣ ΖΑΚΥΝΘΟΣ 29100",
+"tel": "2695062700",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+"enotita": "ΖΑΚΥΝΘΟΥ",
+"regionSlug": "ionion-nison",
+"enotitaSlug": "zakynthoy",
+"slug": "tsoykalas-i-kteo-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "251",
+"titlos": "ΙΚΤΕΟ ΚΕΦΑΛΟΝΙΑΣ & ΙΘΑΚΗΣ",
+"eponimia": "ΚΩΝ/ΝΟΣ ΚΑΙ ΓΕΡΑΣΙΜΟΣ ΔΡΑΚΑΤΟΣ & ΣΙΑ Ε.Ε.",
+"dir": "ΡΑΖΑΤΑ ΚΕΦΑΛΛΟΝΙΑΣ 28100",
+"tel": "2671020100",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+"enotita": "ΚΕΦΑΛΛΗΝΙΑΣ",
+"regionSlug": "ionion-nison",
+"enotitaSlug": "kefallinias",
+"slug": "ikteo-kefalonias-ithakis"
+},
+{
+"tipo": "ikteo",
+"kod": "349",
+"titlos": "Ι.ΚΤΕΟ ΚΕΦΑΛΟΝΙΑΣ & ΙΘΑΚΗΣ",
+"eponimia": "ΚΩΝΣΤΑΝΤΙΝΟΣ & ΓΕΡΑΣΙΜΟΣ ΔΡΑΚΑΤΟΣ & ΣΙΑ Ε.Ε.",
+"dir": "ΕΠΑΡΧ. ΟΔΟΣ ΑΡΓΟΣΤΟΛΙΟΥ - ΠΟΡΟΥ, ΘΕΣΗ ΚΟΚΥΛΙΑ ΤΡΩΙΑΝΝΑΤΩΝ, Τ.Κ. 28100",
+"tel": "2671020101",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+"enotita": "ΚΕΦΑΛΛΗΝΙΑΣ",
+"regionSlug": "ionion-nison",
+"enotitaSlug": "kefallinias",
+"slug": "i-kteo-kefalonias-ithakis"
+},
+{
+"tipo": "ikteo",
+"kod": "352",
+"titlos": "ΙΔΙΩΤΙΚΑ ΚΤΕΟ ΚΕΡΚΥΡΑΣ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ (ΙΚΤΕΟ) ΝΟΜΟΥ ΚΕΡΚΥΡΑΣ Α.Ε.",
+"dir": "6ο ΧΛΜ ΕΘΝΙΚΗΣ ΠΕΛΕΚΑ, Τ.Κ. 49100, ΚΕΡΚΥΡΑ",
+"tel": "2661026610",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+"enotita": "ΚΕΡΚΥΡΑΣ",
+"regionSlug": "ionion-nison",
+"enotitaSlug": "kerkyras",
+"slug": "idiotika-kteo-kerkyras-ae-kerkyras"
+},
+{
+"tipo": "ikteo",
+"kod": "101",
+"titlos": "AUTOVISION SAKAR A.E.",
+"eponimia": "AUTOVISION SAKAR ΙΔΙΩΤΙΚΟΣ ΤΕΧΝΙΚΟΣ ΕΛΕΓΧΟΣ ΟΧΗΜΑΤΩΝ - ΠΙΣΤΟΠΟΙΗΣΕΙΣ A.E.",
+"dir": "ΣΥΝΔΕΤΗΡΙΑ ΟΔΟΣ Ε.Ο. ΘΕΣΣΑΛΟΝΙΚΗΣ - ΧΑΛΚΙΔΙΚΗΣ ΜΕ ΠΕΡΑΙΑ, ΘΕΡΜΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Τ.Θ. 60700, 57001",
+"tel": "2310487500",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "autovision-sakar-a-e-thessalonikis"
+},
+{
+"tipo": "ikteo",
+"kod": "103",
+"titlos": "ΙΚΤΕΟ ΞΥΛΑΓΡΑΣ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΞΥΛΑΓΡΑΣ Α.Ε.",
+"dir": "3ο ΧΛΜ ΣΕΡΡΩΝ - ΔΡΑΜΑΣ 62100",
+"tel": "2321068000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΣΕΡΡΩΝ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "serron",
+"slug": "ikteo-xylagras-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "107",
+"titlos": "AUTOSAFE Ε.Π.Ε.",
+"eponimia": "Σ. ΤΣΟΤΟΥΛΙΔΗΣ - Β. ΤΣΟΤΟΥΛΙΔΟΥ ΙΔΙΩΤΙΚΟ ΚΤΕΟ Ε.Π.Ε.",
+"dir": "15ο ΧΛΜ Π.Ε.Ο. ΘΕΣ/ΚΗΣ-ΚΑΒΑΛΑΣ-ΛΑΓΥΝΑ, ΤΚ 57200 ΘΕΣΣΑΛΟΝΙΚΗ",
+"tel": "2394073330",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√( L4e, L5e, L6e & L7e)",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "autosafe-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "108",
+"titlos": "Ι.Κ.Τ.Ε.Ο ΧΑΛΚΙΔΙΚΗΣ",
+"eponimia": "ΜΑΝΤΖΙΝΟΣ ΚΑΙ ΣΙΑ ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Ο.Ε.",
+"dir": "2 ΧΛΜ ΝΕΩΝ ΜΟΥΔΑΝΙΩΝ - ΠΟΛΥΓΥΡΟΥ, ΝΕΑ ΜΟΥΔΑΝΙΑ ΧΑΛΚΙΔΙΚΗΣ 63200",
+"tel": "2373065888 2373065889",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L4e, L5e, L6e, L7e)",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΧΑΛΚΙΔΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "chalkidikis",
+"slug": "i-k-t-e-o-chalkidikis"
+},
+{
+"tipo": "ikteo",
+"kod": "112",
+"titlos": "GPS ΚΤΕΟ ΑΕ",
+"eponimia": "GPS ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α.Ε.",
+"dir": "8 ΧΛΜ ΣΕΡΡΩΝ - ΣΙΔ/ΣΤΡΟΥ 62100",
+"tel": "2321077130",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΣΕΡΡΩΝ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "serron",
+"slug": "gps-kteo-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "123",
+"titlos": "Ι.Κ.Τ.Ε.Ο ΠΕΛΛΑΣ Ε.Π.Ε",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΠΕΛΛΑΣ Ε.Π.Ε",
+"dir": "20ο ΧΛΜ Ν.Ε.Ο ΕΔΕΣΣΑΣ - ΘΕΣ/ΝΙΚΗΣ, ΚΟΜΒΟΣ ΓΥΨΟΧΩΡΙΟΥ 58100",
+"tel": "2381096320",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "i-k-t-e-o-pellas-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "141",
+"titlos": "EXPRESS SERVICE",
+"eponimia": "ΙΚΤΕΟ ΙΩΑΝΝΑ ΡΑΠΤΟΠΟΥΛΟΥ",
+"dir": "14o ΧΛΜ ΘΕΣ/ΝΙΚΗΣ - ΜΟΥΔΑΝΙΩΝ, ΤΘ 60707, 57001 ΘΕΡΜΗ ΘΕΣ/ΝΙΚΗΣ",
+"tel": "2310461010",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "express-service"
+},
+{
+"tipo": "ikteo",
+"kod": "145",
+"titlos": "ΕΥΡΩΚΤΕΟ ΑΕ",
+"eponimia": "ΕΥΡΩΚΤΕΟ - ΜΑΡΙΑ ΧΑΡΙΣΗ ΙΚΤΕΟ ΑΕ",
+"dir": "ΑΓ ΠΕΤΡΟΥ ΑΓΡ/ΧΙΟ 93Β, Ν. ΕΥΚΑΡΠΙΑ ΘΕΣ/ΚΗΣ 56429",
+"tel": "2310683040",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "eyrokteo-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "146",
+"titlos": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΠΙΕΡΙΑΣ",
+"eponimia": "ΒΟΥΛΓΑΡΗΣ ΓΕΩΡΓΙΟΣ - ΚΑΡΑΘΑΝΟΥ ΟΛΓΑ Ο.Ε",
+"dir": "1ΧΛΜ Ε.Ο ΚΑΤΕΡΙΝΗΣ - Ν. ΕΦΕΣΣΟΥ 60100 ΚΑΤΕΡΙΝΗ",
+"tel": "2351023300",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΙΕΡΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pierias",
+"slug": "idiotiko-kteo-pierias"
+},
+{
+"tipo": "ikteo",
+"kod": "152",
+"titlos": "Ι.ΚΤΕΟ ΠΥΛΑΙΑΣ",
+"eponimia": "ΙΚΤΕΟ X. ΝΙΑΝΙΟΣ - Δ. ΜΠΡΑΚΗΣ Ο.Ε.",
+"dir": "ΠΑΛΑΙΟΜΑΝΔΡΑ ΠΥΛΑΙΑΣ Τ.Θ.21060, 55510 ΘΕΣΣΑΛΟΝΙΚΗ",
+"tel": "2310302540",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "i-kteo-pylaias"
+},
+{
+"tipo": "ikteo",
+"kod": "157",
+"titlos": "AUTOVISION SAKAR A.E. (ΙΚΤΕΟ ΠΟΛΙΧΝΗΣ ΘΕΣΣΑΛΟΝΙΚΗΣ)",
+"eponimia": "AUTOVISION SAKAR A.E. ΙΔΙΩΤΙΚΟΣ ΤΕΧΝΙΚΟΣ ΕΛΕΓΧΟΣ ΟΧΗΜΑΤΩΝ-ΠΙΣΤΟΠΟΙΗΣΕΙΣ",
+"dir": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΟΔΟΣ, ΠΕΡΙΟΧΗ ΝΟΣΟΚΟΜΕΙΩΝ ΠΑΠΑΓΕΩΡΓΙΟΥ & Γ.Σ.Ν.Θ. 424, ΠΟΛΙΧΝΗ TΘ:31530 ΤΚ 56510 ΘΕΣΣΑΛΟΝΙΚΗ",
+"tel": "2310 680200",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "autovision-sakar-a-e-ikteo-polichnis-thessalonikis"
+},
+{
+"tipo": "ikteo",
+"kod": "162",
+"titlos": "ΙΚΤΕΟ ΒΕΡΟΙΑΣ",
+"eponimia": "Α.ΜΑΥΡΙΔΗΣ-Α.ΨΑΡΡΑΣ Ο.Ε.",
+"dir": "ΜΑΚΡΟΧΩΡΙ ΒΕΡΟΙΑΣ 59033 ΗΜΑΘΙΑ",
+"tel": "2331043333",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΗΜΑΘΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "imathias",
+"slug": "ikteo-veroias"
+},
+{
+"tipo": "ikteo",
+"kod": "163",
+"titlos": "ΓΑΡΑΤΙΔΗΣ ΝΙΚΟΔΗΜΟΣ",
+"eponimia": "ΙΚΤΕΟ ΓΑΡΑΤΙΔΗΣ ΝΙΚΟΔΗΜΟΣ",
+"dir": "Δ.Δ. ΦΟΥΣΤΑΝΗΣ - Δ. ΑΛΜΩΠΙΑΣ - Ν. ΠΕΛΛΑΣ - Τ.Κ. 58004",
+"tel": "2384062442 2384062443",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "garatidis-nikodimos"
+},
+{
+"tipo": "ikteo",
+"kod": "164",
+"titlos": "AUTOSAFE Μ.E.Π.Ε.",
+"eponimia": "AUTOSAFE ΙΔΙΩΤΙΚΟ ΚΤΕΟ Μ.E.Π.Ε.",
+"dir": "5ο ΧΛΜ Ε.Ο. ΘΕΣ/ΝΙΚΗΣ - ΚΑΤΕΡΙΝΗΣ 57009, ΤΘ 1432, ΘΕΣ/ΝΙΚΗ",
+"tel": "2310751241",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L4e, L5e, L6e & L7e)",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "autosafe-m-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "170",
+"titlos": "ΙΚΤΕΟ ΚΙΝΗΣΗ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΚΙΝΗΣΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ",
+"dir": "ΟΤ 32 ΓΩΝΙΑ ΤΩΝ ΟΔΩΝ ΝΒ1Α ΚΑΙ ΔΑ12Α, ΒΙΟΜΗΧΑΝΙΚΗ ΠΕΡΙΟΧΗ ΘΕΣ/ΝΙΚΗΣ (ΣΙΝΔΟΣ) 57022",
+"tel": "2310797500",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "ikteo-kinisi-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "171",
+"titlos": "AUTOCONTROL ΕΠΕ",
+"eponimia": "Ι.ΚΤΕΟ AUTOCONTROL ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "ΑΓΡΟΤΙΚΗ ΠΕΡΙΟΧΗ ΝΕΟΥ ΚΟΥΚΛΟΥΤΖΑ ΕΥΟΣΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗ 56224",
+"tel": "2310686668",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "autocontrol-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "173",
+"titlos": "ΑUTOCHECK - B.ΓΚΟΥΓΚΟΥΛΙΑΣ",
+"eponimia": "ΑUTOCHECK Β. ΓΚΟΥΓΚΟΥΛΙΑΣ Ι.Κ.Ε.",
+"dir": "ΟΛΥΜΠΟΥ 9, ΘΕΣΗ ΠΕΡΙΤΣΑ ΚΑΛΟΧΩΡΙ 57009 ΘΕΣΣΑΛΟΝΙΚΗ",
+"tel": "2310755565 2310755561",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "autocheck-b-gkoygkoylias"
+},
+{
+"tipo": "ikteo",
+"kod": "174",
+"titlos": "ΑΦΟΙ ΤΡΥΦΩΝ ΙΚΤΕΟ ΑΕ",
+"eponimia": "ΑΦΟΙ ΤΡΥΦΩΝ ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "Ν. ΜΟΥΔΑΝΙΑ ΧΑΛΚΙΔΙΚΗΣ, ΚΟΜΒΟΣ ΚΑΣΣΑΝΔΡΑΣ-ΣΙΘΩΝΙΑΣ 632 00",
+"tel": "2373065222",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΧΑΛΚΙΔΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "chalkidikis",
+"slug": "afoi-tryfon-ikteo-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "181",
+"titlos": "ΙΔΙΩΤΙΚΟ Κ.Τ.Ε.Ο. ΛΗΤΗΣ",
+"eponimia": "Α. & Θ. ΓΟΥΡΓΟΥΛΑ - Θ. ΜΠΑΜΠΑΤΣΙΚΟΣ - Χ. ΜΩΡΑΪΤΗΣ - Χ. ΠΑΠΑΔΟΠΟΥΛΟΥ Ο.Ε.",
+"dir": "16,5 ΧΛΜ Π.Ε.Ο. ΘΕΣ/ΝΙΚΗΣ-ΣΕΡΡΩΝ - ΛΗΤΗ 54500",
+"tel": "2394073700 2394073473",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "idiotiko-k-t-e-o-litis"
+},
+{
+"tipo": "ikteo",
+"kod": "187",
+"titlos": "AUTOVISION SAKAR A.E. (ΙΚΤΕΟ ΚΟΡΙΝΟΥ ΚΑΤΕΡΙΝΗΣ)",
+"eponimia": "AUTOVISION SAKAR ΙΔΙΩΤΙΚΟΣ ΤΕΧΝΙΚΟΣ ΕΛΕΓΧΟΣ ΟΧΗΜΑΤΩΝ - ΠΙΣΤΟΠΟΙΗΣΕΙΣ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΙΑ",
+"dir": "10ο ΧΛΜ ΠΑΛΑΙΑΣ Ε.Ο. ΚΑΤΕΡΙΝΗΣ - ΘΕΣΣΑΛΟΝΙΚΗΣ, ΚΟΡΙΝΟΣ ΚΑΤΕΡΙΝΗ ΠΙΕΡΙΑΣ 60062 (Τ.Θ. 20 - Τ.Κ. 60100)",
+"tel": "23510 41400",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΙΕΡΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pierias",
+"slug": "autovision-sakar-a-e-ikteo-korinoy-katerinis"
+},
+{
+"tipo": "ikteo",
+"kod": "188",
+"titlos": "ΣΠΥΡΟΣ ΖΕΡΒΟΣ ΙΚΤΕΟ HELLAS E.E.",
+"eponimia": "ΙΚΤΕΟ HELLAS ΣΠΥΡΟΣ ΖΕΡΒΟΣ E.E.",
+"dir": "1ο ΧΛΜ Ε.Ο. ΒΕΡΟΙΑΣ - ΔΟΒΡΑ, 59100 ΒΕΡΟΙΑ",
+"tel": "2331060066",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΗΜΑΘΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "imathias",
+"slug": "spyros-zervos-ikteo-hellas-e-e"
+},
+{
+"tipo": "ikteo",
+"kod": "193",
+"titlos": "ΙΚΤΕΟ AUTO O.K. Ε.Π.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΛΕΞΑΝΔΡΟΣ Ε.Π.Ε.",
+"dir": "5o ΧΛΜ ΓΙΑΝΝΙΤΣΩΝ-ΘΕΣΣΑΛΟΝΙΚΗΣ,58100 ΓΙΑΝΝΙΤΣΑ ΠΕΛΛΑΣ",
+"tel": "2382032611",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "ikteo-auto-o-k-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "199",
+"titlos": "ΟΤΟ ΤΕΧΝΙΚ Α.Ε.",
+"eponimia": "ΟΤΟ ΤΕΧΝΙΚ. ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΙΚΤΕΟ Ν.ΘΕΣΝΙΚΗΣ Α.Ε.",
+"dir": "1η ΠΑΡΑΛΛΗΛΟΣ ΠΡΟΕΚΤΑΣΗ ΜΑΚΡΥΓΙΑΝΝΗ ΕΥΟΣΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗ 56402",
+"tel": "2310685800",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "oto-technik-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "201",
+"titlos": "GPS ΚΤΕΟ Α.Ε.",
+"eponimia": "ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ G.P.S. ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΜΥΛΟΙ 6, ΕΥΚΑΡΠΙΑ, ΘΕΣΣΑΛΟΝΙΚΗ, Τ.Κ.56429",
+"tel": "2310688700",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "gps-kteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "208",
+"titlos": "ΑΒΑΞ ΙΚΤΕΟ Α.Ε.",
+"eponimia": "ΑΒΑΞ ΕΚΜΕΤΑΛΛΕΥΣΗ ΙΔΙΩΤΙΚΩΝ ΚΕΝΤΡΩΝ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ",
+"dir": "ΑΓ. ΑΝΑΣΤΑΣΙΑΣ 13, 57001 ΠΥΛΑΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"tel": "102030",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "avax-ikteo-a-e-thessalonikis"
+},
+{
+"tipo": "ikteo",
+"kod": "242",
+"titlos": "ΙΚΤΕΟ ΝΑΟΥΣΑΣ",
+"eponimia": "Α.ΜΑΥΡΙΔΗΣ-Α.ΨΑΡΡΑΣ Ο.Ε.",
+"dir": "5ο ΧΛΜ ΝΑΟΥΣΑΣ-Σ.Σ. ΝΑΟΥΣΑΣ, 59200 ΝΑΟΥΣΑ",
+"tel": "2332052800",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΗΜΑΘΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "imathias",
+"slug": "ikteo-naoysas"
+},
+{
+"tipo": "ikteo",
+"kod": "244",
+"titlos": "ΚΕΝΤΡΙΚΟ ΙΚΤΕΟ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΤΕΟ ΜΑΚΕΔΟΝΙΑΣ ΑΕ",
+"dir": "5ο ΧΛΜ ΓΙΑΝΝΙΤΣΩΝ - ΘΕΣ/ΝΙΚΗΣ, 58100, ΓΙΑΝΝΙΤΣΑ",
+"tel": "2382033023",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "kentriko-ikteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "275",
+"titlos": "ECO CONTROL",
+"eponimia": "Ι.Κ.Τ.Ε.Ο ΓΙΑΝΝΙΤΣΩΝ Ε.Π.Ε",
+"dir": "2 ΧΛΜ ΓΙΑΝΝΙΤΣΩΝ - ΕΔΕΣΣΗΣ, 58100, Τ.Θ 184",
+"tel": "2382029600",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "eco-control"
+},
+{
+"tipo": "ikteo",
+"kod": "301",
+"titlos": "Ι.Κ.Τ.Ε.Ο. AUTO O.K. I.K.E.",
+"eponimia": "Ι.Κ.Τ.Ε.Ο. ΑΛΕΞΑΝΔΡΟΣ Ι.Κ.Ε.",
+"dir": "1ο ΧΛΜ ΑΞΙΟΥΠΟΛΗΣ-ΓΟΡΓΟΠΗΣ ΔΗΜΟΣ ΠΑΙΟΝΙΑΣ,61300 ΚΙΛΚΙΣ",
+"tel": "2343032611",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΚΙΛΚΙΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "kilkis",
+"slug": "i-k-t-e-o-auto-o-k-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "306",
+"titlos": "ΙΚΤΕΟ ΕΔΕΣΣΑΣ",
+"eponimia": "ΑΠΟΣΤΟΛΟΥ & ΣΙΑ Ε.Ε.",
+"dir": "4ο ΧΛΜ Ε.Ο. ΕΔΕΣΣΑΣ-ΘΕΣ/ΝΙΚΗΣ",
+"tel": "2381051400 2381025618",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "ikteo-edessas"
+},
+{
+"tipo": "ikteo",
+"kod": "307",
+"titlos": "CONTROLE E.Π.Ε.",
+"eponimia": "ΚΟΝΤΡΟΛΕ ΕΤΑΙΡΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "3ο ΧΛΜ ΠΑΛΙΑΣ ΕΘΝΙΚΗΣ ΟΔΟΥ ΚΑΤΕΡΙΝΗΣ ΘΕΣΣΑΛΟΝΙΚΗΣ - 60100 ΚΑΤΕΡΙΝΗ",
+"tel": "2351031100",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΙΕΡΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pierias",
+"slug": "controle-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "316",
+"titlos": "ΙΚΤΕΟ ΠΟΛΥΓΥΡΟΥ",
+"eponimia": "ΑΦΟΙ ΜΑΧΑΙΡΑ ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Ο.Ε.",
+"dir": "Καρβουνιάρη Τούμπα 6ο χλμ Επ. Οδού Πολυγύρου - Γερακινής Τ.Κ.: 63100 Πολύγυρος χαλκιδικής",
+"tel": "2371110132",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΧΑΛΚΙΔΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "chalkidikis",
+"slug": "ikteo-polygyroy"
+},
+{
+"tipo": "ikteo",
+"kod": "331",
+"titlos": "SGS QUALITEST ΙΚΤΕΟ ΜΟΝ. Α.Ε.",
+"eponimia": "SGS QUALITEST ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ",
+"dir": "ΑΝΤΩΝΗ ΤΡΙΤΣΗ 4 & ΠΟΣΕΙΔΩΝΟΣ 97, ΠΥΛΑΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 55535",
+"tel": "2310476300",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e, L4e, L5e, L7e)",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "sgs-qualitest-ikteo-mon-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "191",
+"titlos": "CAR CONTROL",
+"eponimia": "CAR CONTROL IKTEO A.E.E.",
+"dir": "(ΠΡΟΕΚΤΑΣΗ) ΣΤΡΑΤΗΓΟΥ ΜΑΚΡΥΓΙΑΝΝΗ & ΑΝΑΓΓΕΝΗΣΕΩΣ (ΑΓΡ/ΧΙΟ 602) Δ.Ε. ΕΥΟΣΜΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ ΔΗΜΟΥ ΚΟΡΔΕΛΙΟΥ - ΕΥΟΣΜΟΥ Τ.Κ. 56224",
+"tel": "2310682020",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "car-control"
+},
+{
+"tipo": "ikteo",
+"kod": "337",
+"titlos": "ΕΠΕΝΔΥΤΙΚΗ ΚΙΛΚΙΣ Ι.Κ.Ε.",
+"eponimia": "ΕΠΕΝΔΥΤΙΚΗ ΚΙΛΚΙΣ ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "NEA ΔΥΤΙΚΗ ΠΕΡΙΦΕΡΕΙΑΚΗ ΟΔΟΣ ΚΙΛΚΙΣ (ΑΓΡΟΚΤΗΜΑ 1609) ΚΙΛΚΙΣ 61100",
+"tel": "2341020071-72",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΚΙΛΚΙΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "kilkis",
+"slug": "ependytiki-kilkis-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "340",
+"titlos": "ΚΤΕΟ ΤΥΡΠΑΝΗΣ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΤΥΡΠΑΝΗΣ ΧΡΗΣΤΟΣ",
+"dir": "ΚΕΣΣΑΡΙΑΝΑ ΕΔΕΣΣΑΣ, 58200 ΕΔΕΣΣΑ ΠΕΛΛΑΣ",
+"tel": "2381099299",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "kteo-tyrpanis"
+},
+{
+"tipo": "ikteo",
+"kod": "342",
+"titlos": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΣΕΡΡΩΝ",
+"eponimia": "ΚΑΜΕΛΙΔΗΣ - ΘΕΟΔΩΡΙΔΗΣ ΙΚΕ",
+"dir": "2ο ΧΛΜ ΣΕΡΡΩΝ - ΝΙΓΡΙΤΑΣ, ΤΚ 62100, ΣΕΡΡΕΣ",
+"tel": "2321023248",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΣΕΡΡΩΝ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "serron",
+"slug": "idiotiko-kteo-serron"
+},
+{
+"tipo": "ikteo",
+"kod": "346",
+"titlos": "Ι.ΚΤΕΟ POWER CONTROL",
+"eponimia": "ΡΙΖΑΚΗΣ ΧΡΗΣΤΟΣ ΚΑΙ ΣΙΑ ΟΕ",
+"dir": "1ο ΧΛΜ. ΑΡΙΔΑΙΑΣ - ΕΞΑΠΛΑΤΑΝΟΥ, Τ.Κ. 58400, ΑΡΙΔΑΙΑ ΠΕΛΛΑΣ",
+"tel": "2384021822",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΕΛΛΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pellas",
+"slug": "i-kteo-power-control"
+},
+{
+"tipo": "ikteo",
+"kod": "348",
+"titlos": "Ι.ΚΤΕΟ ΟΛΥΜΠΟΣ ΙΚΕ",
+"eponimia": "Ι.ΚΤΕΟ ΟΛΥΜΠΟΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "25ΗΣ ΜΑΡΤΙΟΥ ΤΕΡΜΑ, Τ.Κ. 60132, ΚΑΤΕΡΙΝΗ",
+"tel": "2351077377",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΠΙΕΡΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "pierias",
+"slug": "i-kteo-olympos-ike"
+},
+{
+"tipo": "ikteo",
+"kod": "351",
+"titlos": "ΙΚΤΕΟ ΒΕΡΟΙΑΣ",
+"eponimia": "Α.ΜΑΥΡΙΔΗΣ-Α.ΨΑΡΡΑΣ Ο.Ε.",
+"dir": "Ν.Π.Ο. ΒΕΡΟΙΑΣ - ΝΑΟΥΣΑΣ, Τ.Κ. 59100, ΒΕΡΟΙΑ",
+"tel": "2331044333",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΗΜΑΘΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "imathias",
+"slug": "ikteo-veroias-imathias"
+},
+{
+"tipo": "ikteo",
+"kod": "354",
+"titlos": "Ι.Κ.Τ.Ε.Ο. ΝΙΓΡΙΤΑΣ Ι.Κ.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΝΙΓΡΙΤΑΣ Ι.Κ.Ε.",
+"dir": "1ο Χλμ. ΝΙΓΡΙΤΑΣ - ΣΕΡΡΩΝ, Τ.Κ. 62200, ΔΗΜΟΣ ΝΙΓΡΙΤΑΣ, ΣΕΡΡΕΣ",
+"tel": "2322022000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΣΕΡΡΩΝ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "serron",
+"slug": "i-k-t-e-o-nigritas-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "365",
+"titlos": "ΜΟΥΣΤΑΚΑΣ Ι.Κ.Τ.Ε.Ο. ΕΕ",
+"eponimia": "ΜΟΥΣΤΑΚΑΣ Ι.Κ.Τ.Ε.Ο. ΕΕ",
+"dir": "2o ΧΛΜ ΝΕΩΝ ΜΟΥΔΑΝΙΩΝ - ΓΕΡΑΚΙΝΗΣ, ΤΣΟΥΠΛΙ ΑΜΠΕΛΙΑ, ΔΔ ΑΓ. ΜΑΜΑ Δ. ΠΡΟΠΟΝΤΙΔΑΣ ΧΑΛΚΙΔΙΚΗΣ, Τ.Κ. 63200, ΧΑΛΚΙΔΙΚΗ",
+"tel": "2373091050 - 2373091051",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΧΑΛΚΙΔΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "chalkidikis",
+"slug": "moystakas-i-k-t-e-o-ee"
+},
+{
+"tipo": "ikteo",
+"kod": "370",
+"titlos": "ΕΠΕΝΔΥΤΙΚΗ ΚΙΛΚΙΣ Ι.Κ.Ε.",
+"eponimia": "ΕΠΕΝΔΥΤΙΚΗ ΚΙΛΚΙΣ ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΝΕΑ ΔΥΤΙΚΗ ΠΕΡΙΦΕΡΕΙΑΚΗ ΟΔΟΣ ΚΙΛΚΙΣ, Τ.Κ. 61100, ΚΙΛΚΙΣ",
+"tel": "2341020072-2341020071",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΚΙΛΚΙΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "kilkis",
+"slug": "ependytiki-kilkis-i-k-e-kilkis"
+},
+{
+"tipo": "ikteo",
+"kod": "371",
+"titlos": "G.P.S. ΚΤΕΟ Α.Ε.",
+"eponimia": "ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ G.P.S. ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΙΑ",
+"dir": "Τοπική Κοινότητα Χαρωπού, Δήμος Σιντικής, Τ.Κ. 62300, Σέρρες",
+"tel": "2323022022",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΣΕΡΡΩΝ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "serron",
+"slug": "g-p-s-kteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "380",
+"titlos": "AUTOVISION-SAKAR Α.Ε.",
+"eponimia": "AUTOVISION-SAKAR ΙΔΙΩΤΙΚΟΣ ΤΕΧΝΙΚΟΣ ΕΛΕΓΧΟΣ ΟΧΗΜΑΤΩΝ – ΠΙΣΤΟΠΟΙΗΣΕΙΣ Α.Ε.",
+"dir": "Ανδρέα Γεωργίου 19 & Πηγάσου, Λιμάνι-ΦΙΞ, Τ.Κ. 54627, Θεσσαλονίκη",
+"tel": "2310487500",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "autovision-sakar-a-e-2"
+},
+{
+"tipo": "ikteo",
+"kod": "381",
+"titlos": "Ι.Κ.Τ.Ε.Ο. ΑΛΕΞΑΝΔΡΕΙΑΣ",
+"eponimia": "ΖΕΡΒΟΣ ΣΠΥΡΟΣ ΚΑΙ ΣΙΑ Ε.Ε.",
+"dir": "ΝΕΟΧΩΡΟΠΟΥΛΟ ΑΛΕΞΑΝΔΡΕΙΑΣ, Τ.Κ. 59300, ΑΛΕΞΑΝΔΡΕΙΑ",
+"tel": "2333100005",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΗΜΑΘΙΑΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "imathias",
+"slug": "i-k-t-e-o-alexandreias"
+},
+{
+"tipo": "ikteo",
+"kod": "387",
+"titlos": "ΙΚΤΕΟ ΛΑΓΚΑΔΙΚΙΑ",
+"eponimia": "ΦΙΛΙΠΠΑΚΗ ΖΩΗ",
+"dir": "37ο ΧΛΜ ΠΑΛΑΙΑΣ ΕΘΝΙΚΗΣ ΟΔΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ-ΚΑΒΑΛΑΣ, ΔΗΜΟΣ ΛΑΓΚΑΔΑ",
+"tel": "2393021222",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "thessalonikis",
+"slug": "ikteo-lagkadikia"
+},
+{
+"tipo": "ikteo",
+"kod": "124",
+"titlos": "ΙΚΤΕΟ ΗΡΑΚΛΕΙΟΥ ΚΡΗΤΗΣ ΜΟΝ/ΠΗ ΕΠΕ",
+"eponimia": "ΙΚΤΕΟ ΚΡΗΤΗΣ ΜΟΝ/ΠΗ ΕΠΕ",
+"dir": "ΤΚ: 57020",
+"tel": "2810373700",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "ikteo-irakleioy-kritis-mon-pi-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "125",
+"titlos": "Κ. ΒΙΣΤΑΚΗ Ι.Κ.Τ.Ε.Ο. Ι.Κ.Ε.",
+"eponimia": "Κ. ΒΙΣΤΑΚΗ ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "10ο ΧΛΜ Ε.Ο. ΗΡΑΚΛΕΙΟΥ - ΜΟΙΡΩΝ, ΗΡΑΚΛΕΙΟ 71500",
+"tel": "2810543400 2810542961",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "k-vistaki-i-k-t-e-o-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "139",
+"titlos": "Ι.Κ.Τ.Ε.Ο. ΜΕΣΣΑΡΑΣ Θ.ΤΖΩΡΤΖΑΚΑΚΗΣ & ΥΙΟΙ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΟΧΗΜΑΤΩΝ ΜΕΣΣΑΡΑΣ Θ.ΤΖΩΡΤΖΑΚΑΚΗΣ & ΥΙΟΙ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ.",
+"dir": "2ο ΧΛΜ ΜΟΙΡΩΝ-ΦΑΝΕΡΩΜΕΝΗΣ Δ. ΦΑΙΣΤΟΥ 70200",
+"tel": "2892023100",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "i-k-t-e-o-messaras-th-tzortzakakis-yioi-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "156",
+"titlos": "Ι.ΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"eponimia": "Ζ.ΠΑΤΡΩΝΑΚΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗ ΙΔΙΩΤΙΚΟΥ ΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"dir": "ΚΟΥΡΟΥΝΕΣ ΝΕΑΠΟΛΗΣ, ΠΕΡΙΟΧΗ ΑΡΟΛΙΘΙΑ, ΝΕΑΠΟΛΗ, 72400 ΛΑΣΙΘΙ",
+"tel": "2841032100",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΛΑΣΙΘΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "lasithioy",
+"slug": "i-kteo-nomoy-lasithioy-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "161",
+"titlos": "ΙΚΤΕΟ ΧΑΝΙΩΝ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΧΑΝΙΩΝ ΑΕ",
+"dir": "Λ. ΜΟΥΡΝΙΩΝ 56, 73300 ΧΑΝΙΑ",
+"tel": "2821088900",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΧΑΝΙΩΝ",
+"regionSlug": "kritis",
+"enotitaSlug": "chanion",
+"slug": "ikteo-chanion-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "168",
+"titlos": "ΚΤΕΟ ΚΡΗΤΗΣ",
+"eponimia": "TETE ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΤΟΥΡΙΣΤΙΚΩΝ ΚΑΤΑΣΚΕΥΩΝ-ΕΜΠΟΡΙΟΥ ΚΑΙ ΓΕΩΡΓΙΚΩΝ ΕΚΜΕΤΑΛΛΕΥΣΕΩΝ",
+"dir": "ΠΑΖΙΝΟΣ ΑΚΡΩΤΗΡΙΟΥ ΧΑΝΙΩΝ 73100",
+"tel": "2821066314-15",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΧΑΝΙΩΝ",
+"regionSlug": "kritis",
+"enotitaSlug": "chanion",
+"slug": "kteo-kritis"
+},
+{
+"tipo": "ikteo",
+"kod": "192",
+"titlos": "ΑΦΟΙ ΚΡΕΒΑΤΣΟΥΛΗ Α.Β.Ε.Ε.",
+"eponimia": "ΑΦΟΙ ΚΡΕΒΑΤΣΟΥΛΗ ΑΝΩΝΥΜΗ ΒΙΟΜΗΧΑΝΙΚΗ ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΣΤΑΜΑΘΙΟΥΔΑΚΗ 58, 74100 ΡΕΘΥΜΝΟ",
+"tel": "2834022622",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΡΕΘΥΜΝΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "rethymnoy",
+"slug": "afoi-krevatsoyli-a-v-e-e"
+},
+{
+"tipo": "ikteo",
+"kod": "196",
+"titlos": "Ι.ΚΤΕΟ ΡΕΘΥΜΝΟΥ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΡΕΘΥΜΝΟΥ ΑΕ",
+"dir": "1 ΧΙΛ. ΕΠΑΡΧ. ΟΔΟΥ ΠΛΑΤΑΝΙΑ ΑΡΚΑΔΙΟΥ, 74100 ΡΕΘΥΜΝΟ",
+"tel": "2831075000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e,L4e,L5e,L7e)",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΡΕΘΥΜΝΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "rethymnoy",
+"slug": "i-kteo-rethymnoy-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "222",
+"titlos": "Ι.ΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"eponimia": "Ζ. ΠΑΤΡΩΝΑΚΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗ ΙΔΙΩΤΙΚΟΥ ΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"dir": "ΚΑΜΙΝΑ ΠΑΧΙΑΣ ΑΜΜΟΥ 72200 ΙΕΡΑΠΕΤΡΑ",
+"tel": "2842093100",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΛΑΣΙΘΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "lasithioy",
+"slug": "i-kteo-nomoy-lasithioy-a-e-lasithioy"
+},
+{
+"tipo": "ikteo",
+"kod": "236",
+"titlos": "ΗΦΑΙΣΤΟΣ - ΙΔΙΩΤΙΚΟ Κ.Τ.Ε.Ο. ΑΡΚΑΛΟΧΩΡΙΟΥ",
+"eponimia": "ΣΑΚΑΒΕΛΗΣ & ΣΙΑ Ο.Ε.",
+"dir": "ΚΑΜΠΟΣ ΑΓΙΑΣ ΣΕΜΝΗΣ - ΑΡΚΑΛΟΧΩΡΙ 70300",
+"tel": "2891029007",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "ifaistos-idiotiko-k-t-e-o-arkalochorioy"
+},
+{
+"tipo": "ikteo",
+"kod": "259",
+"titlos": "ΚΤΕΟ ΚΡΗΤΗΣ",
+"eponimia": "ΤΕΤΕ ΑΝΩΝ. ΕΤΑΙΡΕΙΑ ΤΟΥΡΙΣΤΙΚΩΝ ΚΑΤΑΣΚΕΥΩΝ ΕΜΠΟΡΙΟΥ ΚΑΙ ΓΕΩΡΓΙΚΩΝ ΕΚΜΕΤΑΛΛΕΥΣΕΩΝ",
+"dir": "ΣΥΜΒΟΛΗ ΟΔΩΝ Δ ΚΑΙ Π, ΒΙ.ΠΕ. ΗΡΑΚΛΕΙΟΥ ΚΡΗΤΗΣ, 71601",
+"tel": "2810380650 2810380005",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "kteo-kritis-irakleioy"
+},
+{
+"tipo": "ikteo",
+"kod": "282",
+"titlos": "ΙΚΤΕΟ ΠΕΔΙΑΔΟΣ ΕΠΕ",
+"eponimia": "ΑΦΟΙ ΜΑΥΡΑΚΗ ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΕΠΕ",
+"dir": "ΚΑΜΠΟΣ ΕΛΙΑΣ, ΧΕΡΣΟΝΗΣΟΣ ΤΚ70014 ΚΡΗΤΗ",
+"tel": "2897025800",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e,L4e,L5e και L7e)",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "ikteo-pediados-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "293",
+"titlos": "DELTA TEAM SERVICES C.O. (DELTA KTEO c.o.)",
+"eponimia": "ΔΕΛΤΑ ΤΗΜ ΣΕΡΒΙΣ Ε.Ε.",
+"dir": "ΚΟΜΒΟΣ ΚΑΛΛΙΘΕΑΣ ΗΡΑΚΛΕΙΟΥ ΕΠΙ ΤΗΣ ΠΑΡΑΠΛΕΥΡΗΣ ΟΔΟΥ ΤΗΣ ΕΠΑΡΧΙΑΚΗΣ ΟΔΟΥ 30 ΗΡΑΚΛΕΙΟ - ΣΚΑΛΑΝΙ, ΤΑΧ.ΘΥΡ 6, 71500 ΗΡΑΚΛΕΙΟ",
+"tel": "2810383100",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "delta-team-services-c-o-delta-kteo-c-o"
+},
+{
+"tipo": "ikteo",
+"kod": "294",
+"titlos": "ΙΚΤΕΟ ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ ΚΡΗΤΗΣ",
+"eponimia": "ΑΦΟΙ ΠΑΠΑΔΑΚΗ Ο.Ε.",
+"dir": "ΜΑΚΡΕΣ ΠΕΖΟΥΛΕΣ ΕΠΙ ΤΗΣ Ε.Ο. 1 ΧΛΜ. ΑΓ. ΝΙΚΟΛΑΟΥ - ΗΡΑΚΛΕΙΟΥ, Δ. ΑΓ. ΝΙΚΟΛΑΟΥ, ΛΑΣΙΘΙ 72100",
+"tel": "28410 21111",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΛΑΣΙΘΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "lasithioy",
+"slug": "ikteo-agioy-nikolaoy-kritis"
+},
+{
+"tipo": "ikteo",
+"kod": "297",
+"titlos": "Ι.ΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"eponimia": "Ζ. ΠΑΤΡΩΝΑΚΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗ ΙΔΙΩΤΙΚΟΥ ΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"dir": "ΚΑΖΑΝΤΖΑΚΗ & ΓΙΑΜΠΟΥΔΑΚΗ 1, 73100 ΧΑΝΙΑ",
+"tel": "2821036100",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΧΑΝΙΩΝ",
+"regionSlug": "kritis",
+"enotitaSlug": "chanion",
+"slug": "i-kteo-nomoy-lasithioy-a-e-chanion"
+},
+{
+"tipo": "ikteo",
+"kod": "302",
+"titlos": "ΓΕΩΡΓΙΟΣ Ζ. ΠΑΤΡΩΝΑΚΗΣ Α.Ε.",
+"eponimia": "Ι.ΚΤΕΟ ΓΕΩΡΓΙΟΥ Ζ. ΠΑΤΡΩΝΑΚΗ ΗΡΑΚΛΕΙΟΥ ΚΡΗΤΗΣ Α.Ε.",
+"dir": "ΒΙ.ΠΕ. ΗΡΑΚΛΕΙΟΥ, ΟΔΟΣ Θ, 71601 ΗΡΑΚΛΕΙΟ",
+"tel": "2810333000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e,L4e,L5e και L7e)",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΗΡΑΚΛΕΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "irakleioy",
+"slug": "georgios-z-patronakis-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "355",
+"titlos": "ΙΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"eponimia": "Ζ. ΠΑΤΡΩΝΑΚΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗ ΙΚΤΕΟ ΝΟΜΟΥ ΛΑΣΙΘΙΟΥ Α.Ε.",
+"dir": "ΜΠΟΝΤΑ, Τ.Κ. 72300, ΣΗΤΕΙΑ ΛΑΣΙΘΙΟΥ",
+"tel": "2843025200",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΛΑΣΙΘΙΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "lasithioy",
+"slug": "ikteo-nomoy-lasithioy-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "373",
+"titlos": "ΙΚΤΕΟ ΚΙΣΣΑΜΟΥ & ΣΕΛΙΝΟΥ",
+"eponimia": "ΠΕΤΡΑΚΗΣ ΘΕΜΙΣΤΟΚΛΗΣ",
+"dir": "ΚΟΥΡΦΑΛΩΝΑ - Δ.Ε. ΜΗΘΗΜΝΗΣ - ΔΗΜΟΣ ΚΙΣΣΑΜΟΥ, Τ.Κ. 73400, ΚΙΣΣΑΜΟΣ",
+"tel": "2822031100",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΧΑΝΙΩΝ",
+"regionSlug": "kritis",
+"enotitaSlug": "chanion",
+"slug": "ikteo-kissamoy-selinoy"
+},
+{
+"tipo": "ikteo",
+"kod": "388",
+"titlos": "ΙΚΤΕΟ ΚΡΕΒΑΤΣΟΥΛΗΣ Α.Β.Ε.Ε.",
+"eponimia": "ΑΦΟΙ ΚΡΕΒΑΤΣΟΥΛΗ ΑΝΩΝΥΜΗ ΒΙΟΜΗΧΑΝΙΚΗ ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΒΙΟΛΙ ΧΑΡΑΚΙ, ΘΕΣΗ ΠΕΡΙΣΤΕΡΑΣ, 2οΧΛΜ ΕΘΝΙΚΗΣ ΟΔΟΥ ΡΕΘΥΜΝΟΥ - ΧΑΝΙΩΝ, ΤΚ: 74100, ΡΕΘΥΜΝΟ",
+"tel": "2831083000",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΚΡΗΤΗΣ",
+"enotita": "ΡΕΘΥΜΝΟΥ",
+"regionSlug": "kritis",
+"enotitaSlug": "rethymnoy",
+"slug": "ikteo-krevatsoylis-a-v-e-e"
+},
+{
+"tipo": "ikteo",
+"kod": "120",
+"titlos": "Ι.ΚΤΕΟ ΚΩ",
+"eponimia": "Ι.ΚΤΕΟ ΚΩ ΔΗΜΟΣΘΕΝΗΣ ΝΙΚΟΛΑΟΥ",
+"dir": "ΜΙΝΙΕΡΑ - ΑΣΦΕΝΔΙΟΥ, ΚΩΣ 85300",
+"tel": "2242069010",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΚΩ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "ko",
+"slug": "i-kteo-ko"
+},
+{
+"tipo": "ikteo",
+"kod": "140",
+"titlos": "ΙΚΤΕΟ ΔΩΔΕΚΑΝΗΣΟΥ ΑΕ",
+"eponimia": "ΙΚΤΕΟ ΔΩΔΕΚΑΝΗΣΟΥ ΑΕ",
+"dir": "1ο ΧΛΜ ΝΕΑΣ Ε.Ο., ΑΓΙΑ ΒΑΡΒΑΡΑ (ΤΣΑΙΡΙ) 85100 ΡΟΔΟΣ",
+"tel": "2241067677",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΡΟΔΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "rodoy",
+"slug": "ikteo-dodekanisoy-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "206",
+"titlos": "Ι.ΚΤΕΟ ΚΑΛΥΜΝΟΥ",
+"eponimia": "KAΤΡΗΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΕΠΙΧΕΙΡΗΣΗ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΥΓΡΩΝ ΚΑΥΣΙΜΩΝ",
+"dir": "ΓΙΑΝΟΧΩΡΑΦΑ, ΚΑΛΥΜΝΟΣ, 85200",
+"tel": "2243024950",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΚΑΛΥΜΝΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "kalymnoy",
+"slug": "i-kteo-kalymnoy"
+},
+{
+"tipo": "ikteo",
+"kod": "231",
+"titlos": "ΙΚΤΕΟ ΚΩ ΟΕ",
+"eponimia": "ΓΕΩΡΓΙΟΣ ΤΖΑΝΝΕΤΟΥΛΑΚΟΣ & ΣΙΑ ΟΕ",
+"dir": "ΑΓ.ΒΑΣΙΛΕΙΟΣ - ΜΕΣΣΑΡΙΑ ΚΩΣ 85300",
+"tel": "2242046100",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΚΩ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "ko",
+"slug": "ikteo-ko-oe"
+},
+{
+"tipo": "ikteo",
+"kod": "238",
+"titlos": "ΚΤΕΟ Λ. ΘΗΒΩΝ Α.Ε.",
+"eponimia": "ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΛΕΩΦΟΡΟΥ ΘΗΒΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΕΠΙ ΤΗΣ ΕΠΑΡΧΙΑΚΗΣ ΟΔΟΥ ΣΤΗ ΘΕΣΗ \"ΣΥΡΙΟΣ ΠΟΤΑΜΟΣ Ή ΜΑΓΓΑΝΟ Ή ΚΑΜΠΙ\" Δ.Δ. ΑΓΚΑΙΡΙΑΣ, 84 400 ΠΑΡΟΣ",
+"tel": "2284092022",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L4e,L5e και L7e)",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΠΑΡΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "paroy",
+"slug": "kteo-l-thivon-a-e-paroy"
+},
+{
+"tipo": "ikteo",
+"kod": "243",
+"titlos": "ΙΚΤΕΟ ΔΩΔΕΚΑΝΗΣΟΥ ΑΕ",
+"eponimia": "ΙΚΤΕΟ ΔΩΔΕΚΑΝΗΣΟΥ ΑΕ",
+"dir": "7 ΧΛΜ Ε.Ο. ΡΟΔΟΥ-ΛΙΝΔΟΥ ΠΕΡΙΟΧΗ ΑΣΓΟΥΡΟΥ ΡΟΔΟΣ, 85100 ΡΟΔΟΣ",
+"tel": "2241003333",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΡΟΔΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "rodoy",
+"slug": "ikteo-dodekanisoy-ae-rodoy"
+},
+{
+"tipo": "ikteo",
+"kod": "260",
+"titlos": "ΖΑΧΑΡΑΤΟΣ GROUP",
+"eponimia": "ΖΑΧΑΡΑΤΟΣ GROUP E.E.",
+"dir": "ΞΗΡΟΚΑΜΠΟΣ ΝΑΞΟΥ - 84300",
+"tel": "2285027527",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΝΑΞΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "naxoy",
+"slug": "zacharatos-group"
+},
+{
+"tipo": "ikteo",
+"kod": "264",
+"titlos": "ΚΤΕΟ ΣΥΡΟΥ Ε.Π.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΣΥΡΟΥ Ε.Π.Ε.",
+"dir": "ΘΕΣΗ «ΡΟΖΙΑ» ΚΑΤΩ ΜΑΝΝΑ, Δ. ΕΡΜΟΥΠΟΛΗΣ ΣΥΡΟΣ 84100",
+"tel": "2281075500",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΣΥΡΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "syroy",
+"slug": "kteo-syroy-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "280",
+"titlos": "ΙΚΤΕΟ ΣΑΝΤΟΡΙΝΗΣ Ο.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΣΑΝΤΟΡΙΝΗΣ Ο.Ε.",
+"dir": "ΘΕΣΗ «ΒΑΣΙΛΙΔΙΑ», ΠΕΡΙΟΧΗ ΜΕΓΑΛΟΧΩΡΙΟΥ ΔΗΜΟΥ ΘΗΡΑΣ, 84700 ΘΗΡΑ",
+"tel": "2286081400",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L4e,L5e και L7e)",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΘΗΡΑΣ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "thiras",
+"slug": "ikteo-santorinis-o-e"
+},
+{
+"tipo": "ikteo",
+"kod": "336",
+"titlos": "ΚΤΕΟ ΜΥΚΟΝΟΥ",
+"eponimia": "ΟΙΚΟΔΟΜΙΚΗ ΜΥΚΟΝΟΥ",
+"dir": "ΣΚΥΛΑΜΠΕΛΑ, ΜΥΚΟΝΟΣ, 84600",
+"tel": "2289077770",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΚΥΚΛΑΔΩΝ & ΔΩΔΕΚΑΝΗΣΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "kykladon-dodekanisoy",
+"slug": "kteo-mykonoy"
+},
+{
+"tipo": "ikteo",
+"kod": "339",
+"titlos": "ΙΚΤΕΟ ΚΥΚΛΑΔΩΝ Ι.Κ.Ε",
+"eponimia": "ΙΚΤΕΟ ΚΥΚΛΑΔΩΝ Ι.Κ.Ε",
+"dir": "ΘΕΣΗ ΠΑΓΟΣ - ΣΥΡΟΥ, ΤΚ 84100",
+"tel": "2281075750, 2281075751",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΣΥΡΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "syroy",
+"slug": "ikteo-kykladon-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "344",
+"titlos": "ΙΚΤΕΟ ΚΑΡΠΑΘΟΥ",
+"eponimia": "ΑΝΑΠΤΥΞΙΑΚΗ ΚΑΡΠΑΘΟΥ Ι.Κ.Ε.",
+"dir": "ΘΕΣΗ ΠΛΑΤΥΟΛΟ, 85700, ΚΑΡΠΑΘΟΣ",
+"tel": "2245022000",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΔΩΔΕΚΑΝΗΣΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "dodekanisoy",
+"slug": "ikteo-karpathoy"
+},
+{
+"tipo": "ikteo",
+"kod": "383",
+"titlos": "Ι.ΚΤΕΟ ΙΟΥ Ε.Ε.",
+"eponimia": "Ι.ΚΤΕΟ ΙΟΥ Ε.Ε.",
+"dir": "ΡΕΜΑΤΙΕΣ, Τ.Κ. 84001,ΙΟΣ, ΚΥΚΛΑΔΕΣ",
+"tel": "2286186698, 6976001606",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L4e,L5e και L7e)",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΣΥΡΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "syroy",
+"slug": "i-kteo-ioy-e-e"
+},
+{
+"tipo": "ikteo",
+"kod": "385",
+"titlos": "I.K.T.E.O. ΡΟΔΟΥ",
+"eponimia": "Ι.Κ.Τ.Ε.Ο. ΚΑΡΑΜΑΡΙΤΗΣ Ε.Ε.",
+"dir": "10ο χλμ Εθνικής Οδού Ρόδου - Λίνδου, Τ.Κ. 85132, Ρόδος",
+"tel": "2241087888",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L4e,L5e και L7e)",
+"region": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΔΩΔΕΚΑΝΗΣΟΥ",
+"regionSlug": "notioy-aigaioy",
+"enotitaSlug": "dodekanisoy",
+"slug": "i-k-t-e-o-rodoy"
+},
+{
+"tipo": "ikteo",
+"kod": "106",
+"titlos": "ΙΡ ΙΚΤΕΟ ΑΕ",
+"eponimia": "ΗΛΙΟΠΟΥΛΟΣ ΠΑΝΑΓΙΩΤΗΣ ΙΚΤΕΟ Α.Ε",
+"dir": "6 ΧΛΜ Ε.Ο ΚΑΛΑΜΑΤΑΣ - ΜΕΣΣΗΝΗΣ, 24100 ΑΝΤΙΚΑΛΑΜΟΣ",
+"tel": "2721099699",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΜΕΣΣΗΝΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "messinias",
+"slug": "ir-ikteo-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "114",
+"titlos": "ΙΚΤΕΟ ΚΟΡΙΝΘΟΥ ΕΠΕ",
+"eponimia": "ΙΚΤΕΟ ΚΟΡΙΝΘΟΥ ΕΠΕ",
+"dir": "80 ΧΛΜ ΑΘΗΝΩΝ - ΠΑΤΡΩΝ (ΚΟΜΒΟΣ ΙΣΘΜΟΥ) ΚΟΡΙΝΘΟΣ 20100",
+"tel": "2741073700",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΚΟΡΙΝΘΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "korinthias",
+"slug": "ikteo-korinthoy-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "136",
+"titlos": "ΙΚΤΕΟ ΑΡΓΟΛΙΔΑΣ Α.Ε.",
+"eponimia": "ΙΚΤΕΟ ΑΡΓΟΛΙΔΑΣ Α.Ε.",
+"dir": "ΚΙΟΣΚΙΑ - ΝΕΑ ΚΙΟΣ ΔΗΜΟΥ ΑΡΓΟΥΣ ΜΥΚΗΝΩΝ 21053",
+"tel": "2752099400",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΑΡΓΟΛΙΔΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "argolidas",
+"slug": "ikteo-argolidas-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "144",
+"titlos": "ΙΚΤΕΟ ΛΑΚΩΝΙΑΣ - ΑΡΚΑΔΙΑΣ Α.Ε.",
+"eponimia": "ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ Α.Ε.",
+"dir": "12ο ΧΛΜ Ε.Ο. ΣΠΑΡΤΗΣ - ΓΥΘΕΙΟΥ 23100",
+"tel": "2731036936-7",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΛΑΚΩΝΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "lakonias",
+"slug": "ikteo-lakonias-arkadias-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "211",
+"titlos": "ΙΚΤΕΟ ΑΡΚΑΔΙΑΣ ΑΡΣΕΝΗΣ'",
+"eponimia": "ΑΝ. ΑΡΣΕΝΗΣ - Γ. ΑΡΣΕΝΗ Ο.Ε.",
+"dir": "ΤΕΡΜΑ ΤΕΡΤΣΕΤΗ, ΤΡΙΠΟΛΗ- 22100",
+"tel": "2710232451",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΑΡΚΑΔΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "arkadias",
+"slug": "ikteo-arkadias-arsenis"
+},
+{
+"tipo": "ikteo",
+"kod": "241",
+"titlos": "Ι.Ρ.ΙΚ.Τ.Ε.Ο. ΑΕ",
+"eponimia": "ΗΛΙΟΠΟΥΛΟΣ ΠΑΝΑΓΙΩΤΗΣ Ι.Κ.Τ.Ε.Ο. Α.Ε",
+"dir": "7 ΧΛΜ Ε.Ο ΚΥΠΑΡΙΣΣΙΑΣ-ΠΥΡΓΟΥ, 24500 ΚΥΠΑΡΙΣΣΙΑ",
+"tel": "2761071111",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΜΕΣΣΗΝΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "messinias",
+"slug": "i-r-ik-t-e-o-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "265",
+"titlos": "ΙΚΤΕΟ ΦΟΙΒΟΣ ΛΑΚΩΝΙΑΣ",
+"eponimia": "ΙΚΤΕΟ ΚΟΝΤΟΠΟΥΛΟΥ Ι.Κ.Ε.",
+"dir": "Ε.Ο. ΣΠΑΡΤΗΣ - ΜΟΝΕΜΒΑΣΙΑΣ, Δ.Κ. ΣΚΑΛΑΣ ΔΗΜΟΥ ΕΥΡΩΤΑ Τ.Κ. 23051",
+"tel": "2735022000",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΛΑΚΩΝΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "lakonias",
+"slug": "ikteo-foivos-lakonias"
+},
+{
+"tipo": "ikteo",
+"kod": "283",
+"titlos": "ΤΑΡΑΝΤΙΛΗΣ Α.Ε.",
+"eponimia": "ΤΑΡΑΝΤΙΛΗΣ Α.Ε.",
+"dir": "3ο ΧΛΜ ΑΡΓΟΥΣ - Ν.ΚΙΟΥ, ΤΚ 21200, ΑΡΓΟΣ",
+"tel": "2751101111 & 10611",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΑΡΓΟΛΙΔΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "argolidas",
+"slug": "tarantilis-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "287",
+"titlos": "FAST TRACK ΙKTEO ΕΠΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΙΣΘΜΟΥ Ν ΚΟΡΙΝΘΙΑΣ ΕΠΕ",
+"dir": "ΙΣΘΜΟΣ-ΚΟΡΙΝΘΟΣ, ΘΕΣΗ ΓΑΛΟΤΑ,ΤΚ 20131 ΚΟΡΙΝΘΟΣ",
+"tel": "2741084444",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΚΟΡΙΝΘΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "korinthias",
+"slug": "fast-track-ikteo-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "309",
+"titlos": "EXPRESS KTEO",
+"eponimia": "ΚΟΤΤΑΡΑΣ Α. - ΣΤΕΡΓΙΟΣ Ι. Ο.Ε.",
+"dir": "ΠΑΡΑΠΟΤΑΜΟΣ Ή ΧΑΤΖΙΝΑ, ΚΑΛΑΜΑΤΑ, Τ.Κ. 24100",
+"tel": "2721066055",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΜΕΣΣΗΝΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "messinias",
+"slug": "express-kteo-messinias"
+},
+{
+"tipo": "ikteo",
+"kod": "311",
+"titlos": "ΔΡΟΜΟΣ ΙΚΤΕΟ Ο.Ε.",
+"eponimia": "ΔΡΟΜΟΣ ΙΚΤΕΟ Ο.Ε.",
+"dir": "2ο ΧΛΜ ΕΠΑΡΧΙΑΚΗΣ ΟΔΟΥ ΚΡΑΝΙΔΙΟΥ - ΠΟΡΤΟ ΧΕΛΙ, ΚΟΚΚΙΝΑΡΙ 21300, ΚΡΑΝΙΔΙ",
+"tel": "2754023000",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΑΡΓΟΛΙΔΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "argolidas",
+"slug": "dromos-ikteo-o-e"
+},
+{
+"tipo": "ikteo",
+"kod": "317",
+"titlos": "ΚΤΕΟ Ν.ΛΑΚΩΝΙΑΣ",
+"eponimia": "Ι.Κ.Τ.Ε.Ο. Ν.ΛΑΚΩΝΙΑΣ ΓΕΩΡΓΙΟΣ ΤΖΑΝΕΤΟΥΛΑΚΟΣ",
+"dir": "2ο ΧΛΜ Ε.Ο. ΣΠΑΡΤΗΣ - ΓΥΘΕΙΟΥ, ΘΕΣΗ ΓΟΥΝΑΡΗ, 23100 ΣΠΑΡΤΗ",
+"tel": "6945160164-65",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΛΑΚΩΝΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "lakonias",
+"slug": "kteo-n-lakonias"
+},
+{
+"tipo": "ikteo",
+"kod": "319",
+"titlos": "IKTEO ΚΑΛΑΜΑΡΑΣ",
+"eponimia": "IKTEO ΚΑΛΑΜΑΡΑΣ Ε.Ε.",
+"dir": "ΤΕΓΕΑΣ 30, ΤΡΙΠΟΛΗ 221 32",
+"tel": "2710222125",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΑΡΚΑΔΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "arkadias",
+"slug": "ikteo-kalamaras"
+},
+{
+"tipo": "ikteo",
+"kod": "320",
+"titlos": "ΙΚΤΕΟ ΚΙΑΤΟΥ",
+"eponimia": "IKTEO ΚΙΑΤΟΥ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
+"dir": "ΘΕΣΗ ΑΡΚΟΥΔΑ, ΜΟΥΛΚΙ 20200",
+"tel": "2742022220",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΚΟΡΙΝΘΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "korinthias",
+"slug": "ikteo-kiatoy"
+},
+{
+"tipo": "ikteo",
+"kod": "322",
+"titlos": "ΔΡΟΜΟΣ ΙΚΤΕΟ Ο.Ε.",
+"eponimia": "ΔΡΟΜΟΣ ΙΚΤΕΟ Ο.Ε.",
+"dir": "ΒΑΚΟΥΦΙΑ, Δ.Δ. ΑΓΙΟΥ ΑΔΡΙΑΝΟΥ, ΔΗΜΟΣ ΝΑΥΠΛΙΕΩΝ, Ν.ΑΡΓΟΛΙΔΑΣ 211 00",
+"tel": "6937049307 2752097181",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΑΡΓΟΛΙΔΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "argolidas",
+"slug": "dromos-ikteo-o-e-argolidas"
+},
+{
+"tipo": "ikteo",
+"kod": "345",
+"titlos": "OTO KIATO KTEO",
+"eponimia": "ΙΚΤΕΟ Ν. ΚΟΡΙΝΘΙΑΣ Α.Ε.",
+"dir": "ΟΛΥΜΠΙΟΝΙΚΩΝ – ΚΙΑΤΟ, Τ.Κ. 20200, ΚΙΑΤΟ ΚΟΡΙΝΘΙΑΣ",
+"tel": "2742020120",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΚΟΡΙΝΘΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "korinthias",
+"slug": "oto-kiato-kteo"
+},
+{
+"tipo": "ikteo",
+"kod": "358",
+"titlos": "auto EXPRESS",
+"eponimia": "ΚΟΤΤΑΡΑΣ Α ΣΤΕΡΓΙΟΣ Ι Ο.Ε.",
+"dir": "θέση ΓΡΑΝΑ Ή ΣΤΡΟΓΓΥΛΗ ΕΚΤΟΣ ΣΧΕΔΙΟΥ, ΚΟΙΝΟΤΗΤΑ ΑΝΤΙΚΑΛΑΜΟΥ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΚΑΛΑΜΑΤΑΣ, Τ.Κ. 24100, ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
+"tel": "2721069444",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+"enotita": "ΜΕΣΣΗΝΙΑΣ",
+"regionSlug": "peloponnisoy",
+"enotitaSlug": "messinias",
+"slug": "auto-express"
+},
+{
+"tipo": "ikteo",
+"kod": "102",
+"titlos": "ΚΤΕΟΚΑΡ-Ε.Π.Ε.",
+"eponimia": "ΚΑΡΑΦΕΡΗΣ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ - ΙΔΙΩΤΙΚΑ ΚΕΝΤΡΑ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ",
+"dir": "3ο ΧΛΜ ΛΑΜΙΑΣ - ΑΘΗΝΩΝ, ΘΕΣΗ ΛΕΙΒΑΔΙ-ΤΣΑΙΡΙΑ-ΓΕΦΥΡΑΚΙΑ, ΛΑΜΙΑ 35100",
+"tel": "2231093893",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΦΘΙΩΤΙΔΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "fthiotidas",
+"slug": "kteokar-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "116",
+"titlos": "ΙΚΤΕΟ ΛΟΚΡΙΔΟΣ ΜΑΡΤΙΝΟ ΕΠΕ",
+"eponimia": "ΙΚΤΕΟ ΛΟΚΡΙΔΟΣ ΜΑΡΤΙΝΟ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ",
+"dir": "4ο ΧΛΜ ΕΠΑΡΧ. ΟΔΟΥ ΜΑΡΤΙΝΟΥ - ΛΑΡΥΜΝΑΣ, 35005 ΦΘΙΩΤΙΔΑ",
+"tel": "2233061800",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΦΘΙΩΤΙΔΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "fthiotidas",
+"slug": "ikteo-lokridos-martino-epe"
+},
+{
+"tipo": "ikteo",
+"kod": "122",
+"titlos": "ΒΟΙΩΤΙΚΟ ΙΚΤΕΟ Ε.Π.Ε.",
+"eponimia": "ΒΟΙΩΤΙΚΟ ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+"dir": "8ο ΧΛΜ ΛΙΒΑΔΕΙΑΣ - ΚΑΣΤΡΟΥ, ΛΙΒΑΔΕΙΑ ΒΟΙΩΤΙΑΣ 32100",
+"tel": "2261080902",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΒΟΙΩΤΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "voiotias",
+"slug": "voiotiko-ikteo-e-p-e"
+},
+{
+"tipo": "ikteo",
+"kod": "131",
+"titlos": "MY KTEO A.E",
+"eponimia": "MIXΑΛΗΣ Γ. ΘΑΛΑΣΣΗΣ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ",
+"dir": "ΘΕΣΗ ΦΟΥΣΙΑΖΑΝΗ 34100 ΔΡΟΣΙΑ ΧΑΛΚΙΔΟΣ",
+"tel": "2221022222",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΕΥΒΟΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "eyvoias",
+"slug": "my-kteo-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "158",
+"titlos": "ΙΚΤΕΟ ΛΙΒΑΔΕΙΑΣ ΜΑΛΕΡΔΟΣ",
+"eponimia": "ΙΚΤΕΟ ΛΙΒΑΔΕΙΑΣ ΜΑΛΕΡΔΟΣ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ",
+"dir": "2o ΧΛΜ ΛΙΒΑΔΕΙΑΣ-ΟΡΧΟΜΕΝΟΥ 32100 ΛΙΒΑΔΕΙΑ",
+"tel": "2261088811",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΒΟΙΩΤΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "voiotias",
+"slug": "ikteo-livadeias-malerdos"
+},
+{
+"tipo": "ikteo",
+"kod": "200",
+"titlos": "ΚΤΕΟ ΜΠΕΚΟΣ ΙΚΕ",
+"eponimia": "ΚΤΕΟ ΜΠΕΚΟΣ ΙΚΕ",
+"dir": "ΒΕΛΟΣ ΑΛΙΒΕΡΙΟΥ ΤΚ. 34500, ΕΥΒΟΙΑ",
+"tel": "2223091200",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΕΥΒΟΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "eyvoias",
+"slug": "kteo-mpekos-ike"
+},
+{
+"tipo": "ikteo",
+"kod": "202",
+"titlos": "MY KTEO A.E",
+"eponimia": "MIXΑΛΗΣ Γ. ΘΑΛΑΣΣΗΣ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ",
+"dir": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΟΔΟΣ ΘΗΒΩΝ ΛΕΙΒΑΔΕΙΑΣ, ΠΥΡΙ ΘΗΒΑΣ, ΤΘ. 1407, 32200",
+"tel": "2262022223",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΒΟΙΩΤΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "voiotias",
+"slug": "my-kteo-a-e-voiotias"
+},
+{
+"tipo": "ikteo",
+"kod": "205",
+"titlos": "ΙΚΤΕΟ ΒΑΡΔΑΚΩΣΤΑΣ",
+"eponimia": "ΙΚΤΕΟ ΒΑΡΔΑΚΩΣΤΑΣ ΑΠΟΣΤΟΛΟΣ ΚΑΙ ΣΙΑ Ο.Ε.",
+"dir": "ΘΕΣΗ ΜΕΓΑΛΗ ΡΑΧΗ, ΒΑΣΙΛΙΚΟ - ΧΑΛΚΙΔΟΣ, 34002 ΕΥΒΟΙΑ",
+"tel": "2221052110-11 2221053221",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΕΥΒΟΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "eyvoias",
+"slug": "ikteo-vardakostas"
+},
+{
+"tipo": "ikteo",
+"kod": "207",
+"titlos": "MY KTEO A.E",
+"eponimia": "ΜΙΧΑΛΗΣ Γ ΘΑΛΑΣΣΗΣ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ",
+"dir": "ΒΑΘΥ ΣΠΛΗΘΑΡΙ ΔΟΚΟΥ ΧΑΛΚΙΔΑΣ 34100",
+"tel": "2221092100",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΕΥΒΟΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "eyvoias",
+"slug": "my-kteo-a-e-eyvoias"
+},
+{
+"tipo": "ikteo",
+"kod": "217",
+"titlos": "ΙΚΤΕΟ ΕΚΗΒΟΛΟΣ ΑΕ",
+"eponimia": "ΙΔΙΩΤΙΚΟ ΚΕΝΤΡΟ ΤΕΧΝΙΚΟΥ ΕΛΕΓΧΟΥ ΟΧΗΜΑΤΩΝ ΕΚΗΒΟΛΟΣ ΑΕ",
+"dir": "ΑΓ.ΓΕΩΡΓΙΟΣ ΙΣΤΙΑΙΑΣ 34300",
+"tel": "2226055022",
+"cats": [
+"Επιβατικά",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΕΥΒΟΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "eyvoias",
+"slug": "ikteo-ekivolos-ae"
+},
+{
+"tipo": "ikteo",
+"kod": "224",
+"titlos": "ΑΘΑΝΑΣΙΟΥ Α.& ΣΙΑ Ο.Ε.",
+"eponimia": "ΑΘΑΝΑΣΙΟΥ Α. ΚΑΙ ΣΙΑ Ο.Ε ΙΔΙΩΤΙΚΟ ΚΤΕΟ ΑΛΙΒΕΡΙΟΥ",
+"dir": "ΚΡΙΕΖΑ ΕΥΒΟΙΑΣ 34017",
+"tel": "2223051100",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΕΥΒΟΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "eyvoias",
+"slug": "athanasioy-a-sia-o-e"
+},
+{
+"tipo": "ikteo",
+"kod": "233",
+"titlos": "ΙΚΤΕΟ Ο ΛΟΚΡΟΣ",
+"eponimia": "ΙΚΤΕΟ ΑΝΕΣΤΟΠΟΥΛΟΥ Μ.Ε.Π.Ε",
+"dir": "150ο ΧΛΜ ΝΈΟ ΑΘΗΝΩΝ ΛΑΜΙΑΣ, 35200, ΑΡΚΙΤΣΑ ΦΘΙΩΤΙΔΟΣ",
+"tel": "2233091460",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΦΘΙΩΤΙΔΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "fthiotidas",
+"slug": "ikteo-o-lokros"
+},
+{
+"tipo": "ikteo",
+"kod": "315",
+"titlos": "ΜΥ ΚΤΕΟ ΛΑΜΙΑΣ Ι.Κ.Ε.",
+"eponimia": "ΜΥ ΚΤΕΟ ΛΑΜΙΑΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+"dir": "ΘΕΣΗ «ΨΑΛΤΗΡΕΣ» ΛΕΩΦ.ΔΗΜΟΚΡΑΤΙΑΣ ΔΗΜΟΥ ΛΑΜΙΕΩΝ, ΛΑΜΙΑ 351 32",
+"tel": "2231045300",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΦΘΙΩΤΙΔΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "fthiotidas",
+"slug": "my-kteo-lamias-i-k-e"
+},
+{
+"tipo": "ikteo",
+"kod": "325",
+"titlos": "MIXΑΗΛ Γ. ΘΑΛΑΣΣΗΣ",
+"eponimia": "MIXΑΗΛ Γ. ΘΑΛΑΣΣΗΣ",
+"dir": "ΒΙΟ.ΠΑ. ΑΜΦΙΣΣΑΣ, ΤΟΜΕΑΣ Α, Ο.Τ. 4, ΔΗΜΟΣ ΔΕΛΦΩΝ, Π.Ε. ΦΩΚΙΔΑΣ 331 00",
+"tel": "6944821583 2265023500",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΦΩΚΙΔΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "fokidas",
+"slug": "mixail-g-thalassis"
+},
+{
+"tipo": "ikteo",
+"kod": "379",
+"titlos": "ΚΤΕΟ ΣΧΗΜΑΤΑΡΙΟΥ Α.Ε.",
+"eponimia": "ΚΤΕΟ ΣΧΗΜΑΤΑΡΙΟΥ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ",
+"dir": "ΔΕΞΙΑ ΠΑΡΑΠΛΕΥΡΗ ΟΔΟΣ ΑΥΤΟΚΙΝΗΤΟΔΡΟΜΟΥ ΑΘΗΝΩΝ - ΛΑΜΙΑΣ, ΘΕΣΗ ΓΚΡΕΜΙΛΑ, Τ.Κ. 32009, ΣΧΗΜΑΤΑΡΙ ΒΟΙΩΤΙΑΣ",
+"tel": "2262057848, 2262057849",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΒΟΙΩΤΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "voiotias",
+"slug": "kteo-schimatarioy-a-e"
+},
+{
+"tipo": "ikteo",
+"kod": "382",
+"titlos": "ΚΤΕΟ ΑΛΙΒΕΡΙΟΥ",
+"eponimia": "ΑΘΑΝΑΣΙΟΥ Α. ΚΑΙ ΣΙΑ Ο.Ε",
+"dir": "ΔΕΞΙΑ ΠΑΡΑΠΛΕΥΡΗ ΟΔΟΣ (S.R.) ΤΟΥ ΑΥΤΟΚΙΝΗΤΟΔΡΟΜΟΥ Α1 ΑΘΗΝΑ - ΘΕΣΣΑΛΟΝΙΚΗ - ΕΥΖΩΝΟΙ (Α.Θ.Ε.), ΘΕΣΗ ΚΑΛΙΑΝΤΑΚΗ, Δ.Ε. ΣΧΗΜΑΤΑΡΙΟΥ Δ. ΤΑΝΑΓΡΑΣ Τ.Κ. 32009, ΣΧΗΜΑΤΑΡΙ ΒΟΙΩΤΙΑΣ",
+"tel": "2262058800",
+"cats": [
+"Επιβατικά",
+"Βαρέα",
+"Δίκυκλα"
+],
+"dikyklaNota": "√ (L3e,L4e,L5e και L7e)",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΒΟΙΩΤΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "voiotias",
+"slug": "kteo-aliverioy"
+},
+{
+"tipo": "dkteo",
+"kod": "1",
+"titlos": "ΔΚΤΕΟ ΧΟΛΑΡΓΟΥ",
+"eponimia": "ΔΚΤΕΟ ΧΟΛΑΡΓΟΥ",
+"dir": "ΛΕΩΦ. ΜΕΣΟΓΕΙΩΝ 156, Τ.Κ. 11510, ΧΟΛΑΡΓΟΣ",
+"tel": "2106540202, 2106540203",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΑΤΤΙΚΗΣ",
+"enotita": "ΚΕΝΤΡΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+"regionSlug": "attikis",
+"enotitaSlug": "kentrikoy-tomea-athinon",
+"slug": "dkteo-cholargoy"
+},
+{
+"tipo": "dkteo",
+"kod": "6",
+"titlos": "ΔΚΤΕΟ ΛΕΣΒΟΥ",
+"eponimia": "ΔΚΤΕΟ ΛΕΣΒΟΥ",
+"dir": "ΛΑΡΣΟΣ ΜΟΡΙΑΣ, Τ.Κ. 81100, ΜΥΤΙΛΗΝΗ",
+"tel": "2251354100, 2251354101, 2251354109, 2251354111",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΛΕΣΒΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "lesvoy",
+"slug": "dkteo-lesvoy"
+},
+{
+"tipo": "dkteo",
+"kod": "7",
+"titlos": "ΔΚΤΕΟ ΧΙΟΥ",
+"eponimia": "ΔΚΤΕΟ ΧΙΟΥ",
+"dir": "ΚΟΝΤΑΡΙ, Τ.Κ. 82100, ΑΕΡΟΔΡΟΜΕΙΟ ΧΙΟΥ, ΧΙΟΣ",
+"tel": "2271352903, 2271352904, 2271352902",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΧΙΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "chioy",
+"slug": "dkteo-chioy"
+},
+{
+"tipo": "dkteo",
+"kod": "8",
+"titlos": "ΔΚΤΕΟ ΣΑΜΟΥ",
+"eponimia": "ΔΚΤΕΟ ΣΑΜΟΥ",
+"dir": "ΕΠΑΡΧΕΙΑΚΗ ΟΔΟΣ ΠΥΘΑΓΟΡΕΙΟΥ - ΗΡΑΙΟΥ ΣΑΜΟΥ, Τ.Κ. 83103, ΣΑΜΟΣ",
+"tel": "2273352210, 2273352215, 2273352216, 2273352211",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+"enotita": "ΣΑΜΟΥ",
+"regionSlug": "voreioy-aigaioy",
+"enotitaSlug": "samoy",
+"slug": "dkteo-samoy"
+},
+{
+"tipo": "dkteo",
+"kod": "20",
+"titlos": "ΔΚΤΕΟ ΑΧΑΪΑΣ (ΠΑΤΡΑ)",
+"eponimia": "ΔΚΤΕΟ ΑΧΑΪΑΣ (ΠΑΤΡΑ)",
+"dir": "ΔΙΟΔΩΡΟΥ, ΠΑΤΡΑ - ΜΠΟΖΑΙΤΙΚΑ,Τ.Κ. 26443, ΑΧΑΪΑΣ",
+"tel": "2613620300, 2613620316, 2613620303",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΑΧΑΪΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "achaias",
+"slug": "dkteo-achaias-patra"
+},
+{
+"tipo": "dkteo",
+"kod": "21",
+"titlos": "ΔΚΤΕΟ ΗΛΕΙΑΣ (ΠΥΡΓΟΣ)",
+"eponimia": "ΔΚΤΕΟ ΗΛΕΙΑΣ (ΠΥΡΓΟΣ)",
+"dir": "ΣΥΝΔΡΙΑΔΑ,Τ.Κ. 27100, ΠΥΡΓΟΣ ΗΛΕΙΑΣ",
+"tel": "2621363703, 2621363704",
+"cats": [
+"Επιβατικά"
+],
+"dikyklaNota": "",
+"region": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΗΛΕΙΑΣ",
+"regionSlug": "dytikis-elladas",
+"enotitaSlug": "ileias",
+"slug": "dkteo-ileias-pyrgos"
+},
+{
+"tipo": "dkteo",
+"kod": "31",
+"titlos": "ΔΚΤΕΟ ΜΑΓΝΗΣΙΑΣ",
+"eponimia": "ΔΚΤΕΟ ΜΑΓΝΗΣΙΑΣ",
+"dir": "7ο ΧΙΛ. ΒΟΛΟΥ - ΛΑΡΙΣΑΣ, Τ.Κ. 38500, ΔΗΜΟΣ ΒΟΛΟΥ",
+"tel": "2421354817",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΜΑΓΝΗΣΙΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "magnisias",
+"slug": "dkteo-magnisias"
+},
+{
+"tipo": "dkteo",
+"kod": "32",
+"titlos": "ΔΚΤΕΟ ΛΑΡΙΣΑΣ",
+"eponimia": "ΔΚΤΕΟ ΛΑΡΙΣΑΣ",
+"dir": "8ο ΧΙΛ. Ε.Ο. ΛΑΡΙΣΑΣ - ΤΡΙΚΑΛΩΝ 41110",
+"tel": "2410851154",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΛΑΡΙΣΑΣ",
+"regionSlug": "thessalias",
+"enotitaSlug": "larisas",
+"slug": "dkteo-larisas"
+},
+{
+"tipo": "dkteo",
+"kod": "34",
+"titlos": "ΔΚΤΕΟ ΤΡΙΚΑΛΩΝ",
+"eponimia": "ΔΚΤΕΟ ΤΡΙΚΑΛΩΝ",
+"dir": "ΣΩΤΗΡΑ ΤΡΙΚΑΛΩΝ, Τ.Κ. 42150, ΤΡΙΚΑΛΑ",
+"tel": "2431035851, 2431035852, 2431035853",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΘΕΣΣΑΛΙΑΣ",
+"enotita": "ΤΡΙΚΑΛΩΝ",
+"regionSlug": "thessalias",
+"enotitaSlug": "trikalon",
+"slug": "dkteo-trikalon"
+},
+{
+"tipo": "dkteo",
+"kod": "36",
+"titlos": "ΔΚΤΕΟ ΕΥΡΥΤΑΝΙΑΣ",
+"eponimia": "ΔΚΤΕΟ ΕΥΡΥΤΑΝΙΑΣ",
+"dir": "2ο ΧΙΛ. Ε.Ο. ΚΑΡΠΕΝΗΣΙΟΥ - ΛΑΜΙΑΣ, Τ.Κ. 36100, ΚΑΡΠΕΝΗΣΙ",
+"tel": "2237352519, 2237352500, 2237352517",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+"enotita": "ΕΥΡΥΤΑΝΙΑΣ",
+"regionSlug": "stereas-elladas",
+"enotitaSlug": "eyrytanias",
+"slug": "dkteo-eyrytanias"
+},
+{
+"tipo": "dkteo",
+"kod": "42",
+"titlos": "ΔΚΤΕΟ ΚΕΡΚΥΡΑΣ",
+"eponimia": "ΔΚΤΕΟ ΚΕΡΚΥΡΑΣ",
+"dir": "ΑΓ. ΙΩΑΝΝΗΣ, Τ.Κ. 49100, ΚΕΡΚΥΡΑ",
+"tel": "2661363100, 2661363111, 2661363112, 2661363121",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+"enotita": "ΚΕΡΚΥΡΑΣ",
+"regionSlug": "ionion-nison",
+"enotitaSlug": "kerkyras",
+"slug": "dkteo-kerkyras"
+},
+{
+"tipo": "dkteo",
+"kod": "43",
+"titlos": "ΔΚΤΕΟ ΛΕΥΚΑΔΑΣ",
+"eponimia": "ΔΚΤΕΟ ΛΕΥΚΑΔΑΣ",
+"dir": "Α. ΤΖΕΒΕΛΕΚΗ,Τ.Κ. 31100, ΑΛΥΚΕΣ, ΛΕΥΚΑΔΑ",
+"tel": "2645362526, 2645362530",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+"enotita": "ΛΕΥΚΑΔΑΣ",
+"regionSlug": "ionion-nison",
+"enotitaSlug": "leykadas",
+"slug": "dkteo-leykadas"
+},
+{
+"tipo": "dkteo",
+"kod": "50",
+"titlos": "ΔΚΤΕΟ ΞΑΝΘΗΣ",
+"eponimia": "ΔΚΤΕΟ ΞΑΝΘΗΣ",
+"dir": "ΛΕΥΚΗ ΞΑΝΘΗΣ, Τ.Κ.67150, ΞΑΝΘΗ",
+"tel": "2541353307",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΞΑΝΘΗΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "xanthis",
+"slug": "dkteo-xanthis"
+},
+{
+"tipo": "dkteo",
+"kod": "51",
+"titlos": "ΔΚΤΕΟ ΔΡΑΜΑΣ",
+"eponimia": "ΔΚΤΕΟ ΔΡΑΜΑΣ",
+"dir": "ΜΥΛΟΠΟΤΑΜΟΣ, Τ.Κ. 66100, ΔΡΑΜΑ",
+"tel": "2521353604",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ",
+"enotita": "ΔΡΑΜΑΣ",
+"regionSlug": "anatolikis-makedonias-thrakis",
+"enotitaSlug": "dramas",
+"slug": "dkteo-dramas"
+},
+{
+"tipo": "dkteo",
+"kod": "53",
+"titlos": "ΔΚΤΕΟ ΣΕΡΡΩΝ",
+"eponimia": "ΔΚΤΕΟ ΣΕΡΡΩΝ",
+"dir": "1ο ΧΙΛ. ΣΕΡΡΩΝ - ΝΕΟΧΩΡΙΟΥ, Τ.Κ. 62100, ΣΕΡΡΕΣ",
+"tel": "2321355700, 2321355701",
+"cats": [
+"Επιβατικά",
+"Βαρέα"
+],
+"dikyklaNota": "",
+"region": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+"enotita": "ΣΕΡΡΩΝ",
+"regionSlug": "kentrikis-makedonias",
+"enotitaSlug": "serron",
+"slug": "dkteo-serron"
+}
+]

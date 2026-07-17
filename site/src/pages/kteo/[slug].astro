@@ -1,0 +1,120 @@
+---
+import Base from '../../layouts/Base.astro';
+import stathmoi from '../../data/stathmoi.json';
+
+export function getStaticPaths() {
+  return stathmoi.map(s => ({ params: { slug: s.slug }, props: { s } }));
+}
+const { s } = Astro.props;
+const mapaQ = encodeURIComponent(`${s.titlos}, ${s.dir}, Ελλάδα`);
+const geitones = stathmoi.filter(x => x.enotitaSlug === s.enotitaSlug && x.slug !== s.slug).slice(0, 6);
+const esIkteo = s.tipo === 'ikteo';
+const catsTxt = s.cats.join(', ');
+const conMoto = s.cats.includes('Δίκυκλα');
+const uvod = [
+  `Το ${s.titlos} είναι ${esIkteo ? 'ιδιωτικός σταθμός τεχνικού ελέγχου (ΙΚΤΕΟ)' : 'δημόσιο ΚΤΕΟ'} στην περιοχή ${s.enotita}, αδειοδοτημένο από το Υπουργείο Μεταφορών. Παρακάτω θα βρείτε τηλέφωνο, διεύθυνση, χάρτη και τις κατηγορίες οχημάτων που ελέγχει.`,
+  `Ψάχνετε ΚΤΕΟ στην περιοχή ${s.enotita}; Το ${s.titlos} περιλαμβάνεται στον επίσημο κατάλογο ${esIkteo ? 'λειτουργούντων ΙΚΤΕΟ' : 'δημόσιων ΚΤΕΟ'} του Υπουργείου Μεταφορών. Εδώ έχετε τηλέφωνο και διεύθυνση με χάρτη.`,
+  `Πλήρη στοιχεία για το ${s.titlos}: διεύθυνση, τηλέφωνο επικοινωνίας και κατηγορίες ελεγχόμενων οχημάτων, όπως δηλώνονται στον επίσημο κατάλογο του Υπουργείου.`,
+  `${s.titlos} — ${esIkteo ? 'ΙΚΤΕΟ' : 'δημόσιο ΚΤΕΟ'} με κωδικό ${s.kod} στην περιοχή ${s.enotita}. Επαληθευμένα στοιχεία επικοινωνίας από τον επίσημο κατάλογο.`
+][parseInt(s.kod.replace(/\D/g, '') || '0', 10) % 4];
+const title = `${s.titlos} — τηλέφωνο, διεύθυνση και ραντεβού`;
+const desc = `${s.titlos} (${s.enotita}): τηλέφωνο ${s.tel.split(',')[0].trim()}, διεύθυνση ${s.dir.slice(0, 80)}. Ελέγχει: ${catsTxt}. Από τον επίσημο κατάλογο του Υπουργείου Μεταφορών.`;
+const schema = {
+  "@context": "https://schema.org", "@type": "AutoRepair",
+  "name": s.titlos,
+  "address": { "@type": "PostalAddress", "streetAddress": s.dir, "addressRegion": s.region, "addressCountry": "GR" },
+  "telephone": s.tel.split(',')[0].trim(),
+  "url": new URL(Astro.url.pathname, Astro.site).href
+};
+const faq = [
+  { q: `Χρειάζεται ραντεβού στο ${s.titlos};`, a: `Τα περισσότερα ΚΤΕΟ δέχονται και χωρίς ραντεβού, αλλά το τηλεφωνικό ραντεβού (${s.tel.split(',')[0].trim()}) σας εξασφαλίζει προτεραιότητα και ελαχιστοποιεί την αναμονή — ειδικά τις τελευταίες μέρες κάθε μήνα.` },
+  { q: `Τι οχήματα ελέγχει αυτός ο σταθμός;`, a: `Σύμφωνα με τον επίσημο κατάλογο του Υπουργείου Μεταφορών, ο σταθμός ελέγχει: ${catsTxt}.${conMoto ? ' Περιλαμβάνει έλεγχο δικύκλων (μηχανές).' : ' Για έλεγχο δικύκλου, δείτε τους γειτονικούς σταθμούς παρακάτω ή επικοινωνήστε τηλεφωνικά.'}` },
+  { q: `Πόσο κοστίζει ο έλεγχος;`, a: `Οι τιμές στα ΙΚΤΕΟ διαμορφώνονται ελεύθερα — για επιβατικό ΙΧ συνήθως 40 έως 70 ευρώ, με προσφορές που ξεκινούν από περίπου 40 ευρώ και συχνά περιλαμβάνουν την κάρτα καυσαερίων. Ρωτήστε τηλεφωνικά τον ακριβή τιμοκατάλογο.` },
+  { q: `Τι να έχω μαζί μου;`, a: `Άδεια κυκλοφορίας και ταυτότητα (ή δίπλωμα οδήγησης). Αν το όχημα έχει υγραέριο (LPG) χρειάζεται και η σχετική βεβαίωση. Δείτε επίσης τι ελέγχεται και πώς προετοιμάζεστε στον οδηγό μας.` }
+];
+const schemaFaq = { "@context":"https://schema.org","@type":"FAQPage","mainEntity": faq.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}})) };
+const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Αρχική","item":"https://kteokonta.com/"},
+  {"@type":"ListItem","position":2,"name":s.region,"item":`https://kteokonta.com/periferia/${s.regionSlug}/`},
+  {"@type":"ListItem","position":3,"name":s.enotita,"item":`https://kteokonta.com/periochi/${s.enotitaSlug}/`},
+  {"@type":"ListItem","position":4,"name":s.titlos}
+]};
+---
+<Base title={title} desc={desc} schema={schema}>
+<main class="wrap">
+  <div class="migas"><a href="/">Αρχική</a> › <a href={`/periferia/${s.regionSlug}/`}>{s.region}</a> › <a href={`/periochi/${s.enotitaSlug}/`}>{s.enotita}</a> › {s.titlos.slice(0, 30)}</div>
+  <p class="eyebrow">{esIkteo ? 'Ιδιωτικό ΚΤΕΟ · κωδ.' : 'Δημόσιο ΚΤΕΟ · κωδ.'} {s.kod} · {s.enotita}</p>
+  <h1 style="color:var(--verde);font-size:1.65rem;line-height:1.3">{s.titlos}</h1>
+  {s.eponimia && s.eponimia !== s.titlos && <p style="margin:8px 0 0;font-weight:600;font-size:.95rem;color:#5a6c75"><i class="fa-solid fa-building" style="color:var(--verde2)"></i> {s.eponimia}</p>}
+  <p style="margin-top:12px">{uvod}</p>
+  <div class="botonera" style="margin:14px 0 6px">
+    <a class="btn" style="font-size:.88rem;padding:9px 16px" href={`/periochi/${s.enotitaSlug}/`}><i class="fa-solid fa-map-location-dot"></i> Άλλα ΚΤΕΟ — {s.enotita}</a>
+    <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--verde2);color:#fff" href="/kteo-times/"><i class="fa-solid fa-euro-sign"></i> Τιμές ΚΤΕΟ</a>
+    <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--gris);color:var(--verde);border:1px solid var(--borde)" href="/pote-pernao-kteo/"><i class="fa-solid fa-calendar-check"></i> Πότε περνάω;</a>
+  </div>
+
+  <div class="layout">
+  <article>
+  <div class="caja verificado">
+    <p style="margin:0"><span class="badge tipo">{esIkteo ? 'ΙΚΤΕΟ' : 'Δημόσιο'}</span> {s.cats.map(c => <span class="badge tipo" style="margin-left:6px">{c}</span>)}</p>
+    <p style="margin:10px 0 0"><i class="fa-solid fa-location-dot"></i> <strong>Διεύθυνση:</strong> {s.dir}</p>
+    {s.tel && <p style="margin:8px 0 0"><i class="fa-solid fa-phone"></i> <strong>Τηλέφωνο:</strong> <a href={`tel:+30${s.tel.split(/[ ,]/)[0].replace(/\D/g, '')}`}>{s.tel}</a></p>}
+    {s.dikyklaNota && <p style="margin:8px 0 0"><i class="fa-solid fa-motorcycle"></i> <strong>Δίκυκλα:</strong> {s.dikyklaNota}</p>}
+    <p style="margin:8px 0 0;font-size:.87rem;color:#7a8a83">Πηγή: επίσημος κατάλογος λειτουργούντων ΚΤΕΟ, Υπουργείο Υποδομών και Μεταφορών. Επιβεβαιώστε τηλεφωνικά το ωράριο.</p>
+  </div>
+
+  <iframe class="mapa" id="xartis" loading="lazy" src={`https://www.google.com/maps?q=${mapaQ}&z=14&output=embed`} title={`Χάρτης: ${s.titlos}`}></iframe>
+  <div class="botonera" style="margin:6px 0 4px">
+    <a class="btn" style="background:var(--verde2);color:#fff" href={`https://www.google.com/maps/dir/?api=1&destination=${mapaQ}`} rel="nofollow noopener" target="_blank"><i class="fa-solid fa-diamond-turn-right"></i> Οδηγίες πλοήγησης</a>
+  </div>
+
+  <h2>Πριν πάτε: γρήγορη προετοιμασία</h2>
+  <ul>
+    <li><strong>Κλείστε ραντεβού τηλεφωνικά</strong> — οι τελευταίες μέρες του μήνα έχουν τη μεγαλύτερη κίνηση.</li>
+    <li><strong>Έγγραφα:</strong> άδεια κυκλοφορίας και ταυτότητα. Δείτε <a href="/pote-pernao-kteo/">τι ισχύει με τις προθεσμίες</a>.</li>
+    <li><strong>Ελέγξτε το όχημα:</strong> φώτα, φλας, υαλοκαθαριστήρες, λάστιχα και ενδεικτικές λυχνίες — οι μισές απορρίψεις είναι απλά πράγματα.</li>
+    <li><strong>Μην το αφήνετε να λήξει:</strong> εκπρόθεσμος έλεγχος σημαίνει <a href="/prostimo-kteo/">παράβολο και κίνδυνο προστίμου 400€</a>.</li>
+  </ul>
+
+  <h2>Συχνές ερωτήσεις</h2>
+  {faq.map(f => <details class="faq"><summary>{f.q}</summary><div class="faq-body"><p>{f.a}</p></div></details>)}
+
+  {geitones.length > 0 && <>
+    <h2>Άλλοι σταθμοί στην περιοχή {s.enotita}</h2>
+    <div class="grid">
+      {geitones.map(g => <a class="tarjeta" href={`/kteo/${g.slug}/`} style="display:block"><h3><i class="fa-solid fa-car-on"></i>{g.titlos.slice(0, 38)}</h3><p class="meta">{g.dir.slice(0, 44)}</p></a>)}
+    </div>
+  </>}
+
+  <div class="fuente">Ανεξάρτητος ιστότοπος χωρίς σχέση με το Υπουργείο Μεταφορών. Τα στοιχεία προέρχονται από τον επίσημο δημόσιο κατάλογο· τηλέφωνα και ωράρια ενδέχεται να αλλάξουν — επιβεβαιώστε τα με τον σταθμό.</div>
+  </article>
+
+  <aside class="lateral">
+    <div class="caja">
+      <h3><i class="fa-solid fa-circle-info" style="color:var(--verde2);margin-right:6px"></i>Με μια ματιά</h3>
+      <p style="margin:10px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Κωδικός σταθμού</p>
+      <p style="margin:2px 0 0;font-weight:700">{s.kod} ({esIkteo ? 'ΙΚΤΕΟ' : 'ΔΚΤΕΟ'})</p>
+      <p style="margin:12px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Κατηγορίες οχημάτων</p>
+      <p style="margin:2px 0 0;font-weight:700;font-size:.92rem">{catsTxt}</p>
+      <p style="margin:12px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Περιοχή / Περιφέρεια</p>
+      <p style="margin:2px 0 0;font-weight:700;font-size:.92rem">{s.enotita} · {s.region}</p>
+      <p style="margin:12px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Ενδεικτική τιμή (ΙΧ)</p>
+      <p style="margin:2px 0 0;font-weight:700">40 – 70 € (προσφορές από ~40 €)</p>
+    </div>
+    <div class="caja">
+      <h3><i class="fa-solid fa-book-open" style="color:var(--verde2);margin-right:6px"></i>Οδηγός ΚΤΕΟ</h3>
+      <ul>
+        <li><a href="/pote-pernao-kteo/">Πότε περνάω ΚΤΕΟ</a></li>
+        <li><a href="/prostimo-kteo/">Πρόστιμα και παράβολα</a></li>
+        <li><a href="/kteo-times/">Τιμές 2026</a></li>
+        <li><a href="/elegxos-kteo/">Έλεγχος ΚΤΕΟ online</a></li>
+        <li><a href="/prothesmia-kteo/">Έληξε το ΚΤΕΟ; Προθεσμία</a></li>
+        <li><a href="/karta-kafsaerion/">Κάρτα καυσαερίων</a></li>
+      </ul>
+    </div>
+  </aside>
+  </div>
+</main>
+<script type="application/ld+json" set:html={JSON.stringify(schemaFaq)} />
+<script type="application/ld+json" set:html={JSON.stringify(migas)} />
+</Base>

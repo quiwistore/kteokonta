@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import { odigos } from '../data/odigos.js';
+export function getStaticPaths() {
+  return odigos.map(g => ({ params: { guia: g.slug }, props: { g } }));
+}
+const { g } = Astro.props;
+const otras = odigos.filter(x => x.slug !== g.slug).slice(0, 4);
+const palabras = JSON.stringify(g.cuerpo).split(/\s+/).length;
+const minutos = Math.max(2, Math.round(palabras / 200));
+const actualizado = new Date().toLocaleDateString('el-GR', { day: 'numeric', month: 'long', year: 'numeric' });
+const schemaFaq = { "@context":"https://schema.org","@type":"FAQPage","mainEntity": g.faq.map(f => ({"@type":"Question","name":f[0],"acceptedAnswer":{"@type":"Answer","text":f[1].replace(/<[^>]+>/g,'')}})) };
+const schemaArt = { "@context":"https://schema.org","@type":"Article","headline":g.titulo,"inLanguage":"el","author":{"@type":"Organization","name":"ΚΤΕΟ Κοντά"} };
+const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Αρχική","item":"https://kteokonta.com/"},{"@type":"ListItem","position":2,"name":"Οδηγός","item":"https://kteokonta.com/odigos/"},{"@type":"ListItem","position":3,"name":g.corto}]};
+---
+<Base title={g.titulo} desc={g.desc} schema={schemaArt}>
+<main class="wrap">
+  <div class="migas"><a href="/">Αρχική</a> › <a href="/odigos/">Οδηγός</a> › {g.corto}</div>
+  <p class="eyebrow">Οδηγός ΚΤΕΟ</p>
+  <h1 style="color:var(--verde);font-size:1.85rem;line-height:1.25">{g.titulo}</h1>
+  <p class="lede">{g.desc}</p>
+  <div class="meta-linea"><span><i class="fa-regular fa-calendar-check"></i>Ενημερώθηκε {actualizado}</span><span><i class="fa-regular fa-clock"></i>{minutos} λεπτά</span><span><i class="fa-solid fa-scale-balanced"></i>Πηγές: ΥΠ.ΥΜΕ / gov.gr / νέος ΚΟΚ</span></div>
+  {g.quick && <div class="quick"><strong>Με λίγα λόγια:</strong> {g.quick}</div>}
+  <article>
+  {g.cuerpo.map(([tipo, contenido]) => {
+    if (tipo === 'p') return <p set:html={contenido} />;
+    if (tipo === 'h2') return <h2>{contenido}</h2>;
+    if (tipo === 'ul') return <ul>{contenido.map(i => <li set:html={i} />)}</ul>;
+    if (tipo === 'ol') return <ol>{contenido.map(i => <li set:html={i} />)}</ol>;
+  })}
+  <h2>Συχνές ερωτήσεις</h2>
+  {g.faq.map(f => <details class="faq"><summary>{f[0]}</summary><div class="faq-body"><p set:html={f[1]} /></div></details>)}
+  </article>
+  <h2>Συνεχίστε εδώ</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/stathmoi/" style="display:block"><h3><i class="fa-solid fa-car-on"></i>Βρείτε σταθμό ΚΤΕΟ</h3><p class="meta">264 σταθμοί με τηλέφωνο και διεύθυνση.</p></a>
+    <a class="tarjeta" href="/pote-pernao-kteo/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Πότε περνάω ΚΤΕΟ</h3><p class="meta">Προθεσμίες και το παράθυρο ελέγχου.</p></a>
+    <a class="tarjeta" href="/kteo-times/" style="display:block"><h3><i class="fa-solid fa-euro-sign"></i>Τιμές 2026</h3><p class="meta">Τι κοστίζει και πώς συγκρίνετε.</p></a>
+  </div>
+  <h2 style="font-size:1.12rem">Άλλα άρθρα</h2>
+  <div class="chips">
+    {otras.map(o => <a class="chip" href={`/${o.slug}/`}>{o.corto}</a>)}
+  </div>
+  <div class="fuente">Ενημερωτικό περιεχόμενο επαληθευμένο με την ισχύουσα νομοθεσία και τις επίσημες πηγές (Υπουργείο Υποδομών και Μεταφορών, gov.gr). Ποσά και κανόνες ενδέχεται να αλλάξουν.</div>
+</main>
+<script type="application/ld+json" set:html={JSON.stringify(schemaFaq)} />
+<script type="application/ld+json" set:html={JSON.stringify(migas)} />
+</Base>
