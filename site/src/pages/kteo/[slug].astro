@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import stathmoi from '../../data/stathmoi.json';
+import ALLK from '../../data/stathmoi.json';
 
 export function getStaticPaths() {
   return stathmoi.map(s => ({ params: { slug: s.slug }, props: { s } }));
@@ -17,7 +18,12 @@ const uvod = [
   `Πλήρη στοιχεία για το ${s.titlos}: διεύθυνση, τηλέφωνο επικοινωνίας και κατηγορίες ελεγχόμενων οχημάτων, όπως δηλώνονται στον επίσημο κατάλογο του Υπουργείου.`,
   `${s.titlos} — ${esIkteo ? 'ΙΚΤΕΟ' : 'δημόσιο ΚΤΕΟ'} με κωδικό ${s.kod} στην περιοχή ${s.enotita}. Επαληθευμένα στοιχεία επικοινωνίας από τον επίσημο κατάλογο.`
 ][parseInt(s.kod.replace(/\D/g, '') || '0', 10) % 4];
-const title = `${s.titlos} — τηλέφωνο, διεύθυνση και ραντεβού`;
+const nombreK = /[A-Za-zΑ-Ωα-ωΆ-ώ]/.test(s.titlos || '') ? s.titlos : (s.eponimia || 'ΚΤΕΟ');
+const zona = s.enotita && !nombreK.toUpperCase().includes(s.enotita) ? ` ${s.enotita}` : '';
+const __nom = (x) => (/[A-Za-zΑ-Ωα-ωΆ-ώ]/.test(x.titlos || '') ? x.titlos : (x.eponimia || '')) + '|' + x.enotita;
+const __rep = ALLK.filter((x) => __nom(x) === __nom(s)).length > 1;
+const __pueblo = __rep ? ' ' + ((s.dir || '').split(',').pop().replace(/\d+/g, '').trim() || s.kod) : '';
+const title = [`${nombreK}${zona}${__pueblo} — τηλέφωνο, διεύθυνση και ραντεβού`, `${nombreK}${zona}${__pueblo} — τηλέφωνο και ραντεβού`, `${nombreK}${zona}${__pueblo}: τηλέφωνο`, `${nombreK}${zona}${__pueblo}`].find((x) => x.length <= 70) || `${nombreK}${zona}${__pueblo}`;
 const desc = `${s.titlos} (${s.enotita}): τηλέφωνο ${s.tel.split(',')[0].trim()}, διεύθυνση ${s.dir.slice(0, 80)}. Ελέγχει: ${catsTxt}. Από τον επίσημο κατάλογο του Υπουργείου Μεταφορών.`;
 const schema = {
   "@context": "https://schema.org", "@type": "AutoRepair",
